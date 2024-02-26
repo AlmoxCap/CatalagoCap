@@ -1,7 +1,7 @@
 {
 "Produtos":[
  {
-  "Codigo_Produto": 400050047,
+  "Codigo_Produto": "0400050047",
   "Grupo": 40,
   "Categoria": "MATERIAIS CHAPARIAS",
   "Nome": "BARRA ROSCADA",
@@ -13,7 +13,7 @@
   "Preco_unitario": 24.80909090909091
  },
  {
-  "Codigo_Produto": 400300043,
+  "Codigo_Produto": "0400300043",
   "Grupo": 40,
   "Categoria": "MATERIAIS CHAPARIAS",
   "Nome": "MAO FRANCESA",
@@ -25,7 +25,7 @@
   "Preco_unitario": 18
  },
  {
-  "Codigo_Produto": 400350029,
+  "Codigo_Produto": "0400350029",
   "Grupo": 40,
   "Categoria": "MATERIAIS CHAPARIAS",
   "Nome": "CHAPA AC",
@@ -37,7 +37,7 @@
   "Preco_unitario": 1819.415
  },
  {
-  "Codigo_Produto": 400550054,
+  "Codigo_Produto": "0400550054",
   "Grupo": 40,
   "Categoria": "MATERIAIS CHAPARIAS",
   "Nome": "ELETRODO REVESTIDO",
@@ -49,7 +49,7 @@
   "Preco_unitario": 21
  },
  {
-  "Codigo_Produto": 450600065,
+  "Codigo_Produto": "0450600065",
   "Grupo": 45,
   "Categoria": "CONSTRUÇÃO",
   "Nome": "ANEL MATERIAL",
@@ -61,7 +61,7 @@
   "Preco_unitario": 64
  },
  {
-  "Codigo_Produto": 450600102,
+  "Codigo_Produto": "0450600102",
   "Grupo": 45,
   "Categoria": "CONSTRUÇÃO",
   "Nome": "CAIXA P",
@@ -73,7 +73,7 @@
   "Preco_unitario": 42
  },
  {
-  "Codigo_Produto": 450800001,
+  "Codigo_Produto": "0450800001",
   "Grupo": 45,
   "Categoria": "CONSTRUÇÃO",
   "Nome": "PORTA PVC",
@@ -85,7 +85,7 @@
   "Preco_unitario": 135
  },
  {
-  "Codigo_Produto": 450900202,
+  "Codigo_Produto": "0450900202",
   "Grupo": 45,
   "Categoria": "CONSTRUÇÃO",
   "Nome": "CRUZETA MAD",
@@ -97,7 +97,7 @@
   "Preco_unitario": 216
  },
  {
-  "Codigo_Produto": 550150035,
+  "Codigo_Produto": "0550150035",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -109,7 +109,7 @@
   "Preco_unitario": 105
  },
  {
-  "Codigo_Produto": 550150103,
+  "Codigo_Produto": "0550150103",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -121,7 +121,7 @@
   "Preco_unitario": 320.38
  },
  {
-  "Codigo_Produto": 550150105,
+  "Codigo_Produto": "0550150105",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -133,7 +133,7 @@
   "Preco_unitario": 223.92333333333332
  },
  {
-  "Codigo_Produto": 550150106,
+  "Codigo_Produto": "0550150106",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -145,7 +145,7 @@
   "Preco_unitario": 1377.75
  },
  {
-  "Codigo_Produto": 550150107,
+  "Codigo_Produto": "0550150107",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -157,7 +157,7 @@
   "Preco_unitario": 564.5500000000001
  },
  {
-  "Codigo_Produto": 550150108,
+  "Codigo_Produto": "0550150108",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -169,7 +169,7 @@
   "Preco_unitario": 583.9318181818181
  },
  {
-  "Codigo_Produto": 550150110,
+  "Codigo_Produto": "0550150110",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -181,7 +181,7 @@
   "Preco_unitario": 74
  },
  {
-  "Codigo_Produto": 550150137,
+  "Codigo_Produto": "0550150137",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "SUPRESSOR SURTO",
@@ -193,7 +193,7 @@
   "Preco_unitario": 73.10000000000001
  },
  {
-  "Codigo_Produto": 550150165,
+  "Codigo_Produto": "0550150165",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATO AUXILIAR",
@@ -205,7 +205,7 @@
   "Preco_unitario": 20
  },
  {
-  "Codigo_Produto": 550150166,
+  "Codigo_Produto": "0550150166",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATO AUXILIAR",
@@ -217,7 +217,7 @@
   "Preco_unitario": 18.01
  },
  {
-  "Codigo_Produto": 550150216,
+  "Codigo_Produto": "0550150216",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -229,7 +229,7 @@
   "Preco_unitario": 55.875
  },
  {
-  "Codigo_Produto": 550150221,
+  "Codigo_Produto": "0550150221",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -241,7 +241,7 @@
   "Preco_unitario": 110.75
  },
  {
-  "Codigo_Produto": 550150222,
+  "Codigo_Produto": "0550150222",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -253,7 +253,7 @@
   "Preco_unitario": 117.125
  },
  {
-  "Codigo_Produto": 550150223,
+  "Codigo_Produto": "0550150223",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -265,7 +265,7 @@
   "Preco_unitario": 198.98
  },
  {
-  "Codigo_Produto": 550150224,
+  "Codigo_Produto": "0550150224",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -277,7 +277,7 @@
   "Preco_unitario": 381.85
  },
  {
-  "Codigo_Produto": 550150225,
+  "Codigo_Produto": "0550150225",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -289,7 +289,7 @@
   "Preco_unitario": 246.25
  },
  {
-  "Codigo_Produto": 550150226,
+  "Codigo_Produto": "0550150226",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -301,7 +301,7 @@
   "Preco_unitario": 274.818
  },
  {
-  "Codigo_Produto": 550150227,
+  "Codigo_Produto": "0550150227",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONTATOR POTENCIA",
@@ -313,7 +313,7 @@
   "Preco_unitario": 755.1525
  },
  {
-  "Codigo_Produto": 550150320,
+  "Codigo_Produto": "0550150320",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "SUPRESSOR SURTO",
@@ -325,7 +325,7 @@
   "Preco_unitario": 146
  },
  {
-  "Codigo_Produto": 550250085,
+  "Codigo_Produto": "0550250085",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "MINI CAPACITOR",
@@ -337,7 +337,7 @@
   "Preco_unitario": 25
  },
  {
-  "Codigo_Produto": 550250089,
+  "Codigo_Produto": "0550250089",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "MINI CAPACITOR",
@@ -349,7 +349,7 @@
   "Preco_unitario": 37
  },
  {
-  "Codigo_Produto": 550300035,
+  "Codigo_Produto": "0550300035",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "BOTOEIRA TP",
@@ -361,7 +361,7 @@
   "Preco_unitario": 130.5
  },
  {
-  "Codigo_Produto": 550300037,
+  "Codigo_Produto": "0550300037",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "BOTOEIRA TP",
@@ -373,7 +373,7 @@
   "Preco_unitario": 82.335
  },
  {
-  "Codigo_Produto": 550300060,
+  "Codigo_Produto": "0550300060",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "PLUG ELET",
@@ -385,7 +385,7 @@
   "Preco_unitario": 2.815
  },
  {
-  "Codigo_Produto": 550300099,
+  "Codigo_Produto": "0550300099",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CHAVE SECCIONADORA",
@@ -397,7 +397,7 @@
   "Preco_unitario": 164.71
  },
  {
-  "Codigo_Produto": 550300136,
+  "Codigo_Produto": "0550300136",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CHAVE COMUTADORA",
@@ -409,7 +409,7 @@
   "Preco_unitario": 115
  },
  {
-  "Codigo_Produto": 550300189,
+  "Codigo_Produto": "0550300189",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "MODULO COMUNICACAO",
@@ -421,7 +421,7 @@
   "Preco_unitario": 335.254
  },
  {
-  "Codigo_Produto": 550300237,
+  "Codigo_Produto": "0550300237",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TOMADA SIST",
@@ -433,7 +433,7 @@
   "Preco_unitario": 13.01
  },
  {
-  "Codigo_Produto": 550300286,
+  "Codigo_Produto": "0550300286",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CHAVE SELETORA",
@@ -445,7 +445,7 @@
   "Preco_unitario": 33
  },
  {
-  "Codigo_Produto": 550300344,
+  "Codigo_Produto": "0550300344",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TOMADA EXT",
@@ -457,7 +457,7 @@
   "Preco_unitario": 8.353076923076923
  },
  {
-  "Codigo_Produto": 550300345,
+  "Codigo_Produto": "0550300345",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TOMADA P",
@@ -469,7 +469,7 @@
   "Preco_unitario": 6.657777777777778
  },
  {
-  "Codigo_Produto": 550350005,
+  "Codigo_Produto": "0550350005",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "DISJUNTOR MINI",
@@ -481,7 +481,7 @@
   "Preco_unitario": 53.9
  },
  {
-  "Codigo_Produto": 550350031,
+  "Codigo_Produto": "0550350031",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "DISJUNTOR MINI",
@@ -493,7 +493,7 @@
   "Preco_unitario": 25.41
  },
  {
-  "Codigo_Produto": 550350043,
+  "Codigo_Produto": "0550350043",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "DISJUNTOR MINI",
@@ -505,7 +505,7 @@
   "Preco_unitario": 154.28444444444443
  },
  {
-  "Codigo_Produto": 550350065,
+  "Codigo_Produto": "0550350065",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "DISJUNTOR CAIXA",
@@ -517,7 +517,7 @@
   "Preco_unitario": 587.2
  },
  {
-  "Codigo_Produto": 550350084,
+  "Codigo_Produto": "0550350084",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "MINI DISJUNTOR",
@@ -529,7 +529,7 @@
   "Preco_unitario": 23.25
  },
  {
-  "Codigo_Produto": 550350118,
+  "Codigo_Produto": "0550350118",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "MINI DISJUNTOR",
@@ -541,7 +541,7 @@
   "Preco_unitario": 184.27
  },
  {
-  "Codigo_Produto": 550350135,
+  "Codigo_Produto": "0550350135",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "DISJUNTOR CAIXA",
@@ -553,7 +553,7 @@
   "Preco_unitario": 976
  },
  {
-  "Codigo_Produto": 550350142,
+  "Codigo_Produto": "0550350142",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CAIXA MEDIDOR",
@@ -565,7 +565,7 @@
   "Preco_unitario": 76.53
  },
  {
-  "Codigo_Produto": 550350391,
+  "Codigo_Produto": "0550350391",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "DISJUNTOR MINI",
@@ -577,7 +577,7 @@
   "Preco_unitario": 87.567
  },
  {
-  "Codigo_Produto": 550350394,
+  "Codigo_Produto": "0550350394",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "DISJUNTOR MINI",
@@ -589,7 +589,7 @@
   "Preco_unitario": 126.94714285714285
  },
  {
-  "Codigo_Produto": 550350400,
+  "Codigo_Produto": "0550350400",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "DISJUNTOR CAIXA",
@@ -601,7 +601,7 @@
   "Preco_unitario": 257.15
  },
  {
-  "Codigo_Produto": 550350401,
+  "Codigo_Produto": "0550350401",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "DISJUNTOR CAIXA",
@@ -613,7 +613,7 @@
   "Preco_unitario": 257.15
  },
  {
-  "Codigo_Produto": 550400004,
+  "Codigo_Produto": "0550400004",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CURVA ELETRODUTO",
@@ -625,7 +625,7 @@
   "Preco_unitario": 18
  },
  {
-  "Codigo_Produto": 550400005,
+  "Codigo_Produto": "0550400005",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CURVA ELETRODUTO",
@@ -637,7 +637,7 @@
   "Preco_unitario": 40.72571428571428
  },
  {
-  "Codigo_Produto": 550400006,
+  "Codigo_Produto": "0550400006",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CURVA ELETRODUTO",
@@ -649,7 +649,7 @@
   "Preco_unitario": 4.69
  },
  {
-  "Codigo_Produto": 550400007,
+  "Codigo_Produto": "0550400007",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CURVA ELETRODUTO",
@@ -661,7 +661,7 @@
   "Preco_unitario": 4.825
  },
  {
-  "Codigo_Produto": 550400008,
+  "Codigo_Produto": "0550400008",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ADAPTADOR ELETRODUTO",
@@ -673,7 +673,7 @@
   "Preco_unitario": 0.915
  },
  {
-  "Codigo_Produto": 550400009,
+  "Codigo_Produto": "0550400009",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CURVA ELETRODUTO",
@@ -685,7 +685,7 @@
   "Preco_unitario": 2.826875
  },
  {
-  "Codigo_Produto": 550400010,
+  "Codigo_Produto": "0550400010",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CURVA ELETRODUTO",
@@ -697,7 +697,7 @@
   "Preco_unitario": 2.07
  },
  {
-  "Codigo_Produto": 550400030,
+  "Codigo_Produto": "0550400030",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ARRUELA ELETRODUTO",
@@ -709,7 +709,7 @@
   "Preco_unitario": 1.6965346534653465
  },
  {
-  "Codigo_Produto": 550400041,
+  "Codigo_Produto": "0550400041",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA ELETRODUTO",
@@ -721,7 +721,7 @@
   "Preco_unitario": 1.8736842105263158
  },
  {
-  "Codigo_Produto": 550400050,
+  "Codigo_Produto": "0550400050",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA ELETRODUTO",
@@ -733,7 +733,7 @@
   "Preco_unitario": 0.7866666666666666
  },
  {
-  "Codigo_Produto": 550400079,
+  "Codigo_Produto": "0550400079",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "BOX RETO",
@@ -745,7 +745,7 @@
   "Preco_unitario": 4.034634146341463
  },
  {
-  "Codigo_Produto": 550400105,
+  "Codigo_Produto": "0550400105",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ELETRODUTO FLEXIVEL",
@@ -757,7 +757,7 @@
   "Preco_unitario": 4.905651162790697
  },
  {
-  "Codigo_Produto": 550400215,
+  "Codigo_Produto": "0550400215",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CURVA ELETRODUTO",
@@ -769,7 +769,7 @@
   "Preco_unitario": 6.4
  },
  {
-  "Codigo_Produto": 550400216,
+  "Codigo_Produto": "0550400216",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA ELETRODUTO",
@@ -781,7 +781,7 @@
   "Preco_unitario": 2.748235294117647
  },
  {
-  "Codigo_Produto": 550400248,
+  "Codigo_Produto": "0550400248",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ABRACADEIRA CAIXA",
@@ -793,7 +793,7 @@
   "Preco_unitario": 3.1206666666666667
  },
  {
-  "Codigo_Produto": 550400259,
+  "Codigo_Produto": "0550400259",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CURVA ELETRODUTO",
@@ -805,7 +805,7 @@
   "Preco_unitario": 3.9
  },
  {
-  "Codigo_Produto": 550400275,
+  "Codigo_Produto": "0550400275",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ABRACADEIRA CAIXA",
@@ -817,7 +817,7 @@
   "Preco_unitario": 2.0675
  },
  {
-  "Codigo_Produto": 550400319,
+  "Codigo_Produto": "0550400319",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ARRUELA ELETRODUTO",
@@ -829,7 +829,7 @@
   "Preco_unitario": 2.83
  },
  {
-  "Codigo_Produto": 550400337,
+  "Codigo_Produto": "0550400337",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ELETRODUTO FLEXIVEL",
@@ -841,7 +841,7 @@
   "Preco_unitario": 12
  },
  {
-  "Codigo_Produto": 550400338,
+  "Codigo_Produto": "0550400338",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ADAPTADOR ELETRODUTO",
@@ -853,7 +853,7 @@
   "Preco_unitario": 0.5415
  },
  {
-  "Codigo_Produto": 550400357,
+  "Codigo_Produto": "0550400357",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CABECOTE ALUMINIO",
@@ -865,7 +865,7 @@
   "Preco_unitario": 13.796666666666667
  },
  {
-  "Codigo_Produto": 550400358,
+  "Codigo_Produto": "0550400358",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ELETRODUTO RIGIDO",
@@ -877,7 +877,7 @@
   "Preco_unitario": 43.63428571428572
  },
  {
-  "Codigo_Produto": 550400360,
+  "Codigo_Produto": "0550400360",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "BUCHA ELETRODUTO",
@@ -889,7 +889,7 @@
   "Preco_unitario": 2.975
  },
  {
-  "Codigo_Produto": 550400376,
+  "Codigo_Produto": "0550400376",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ABRACADEIRA CAIXA",
@@ -901,7 +901,7 @@
   "Preco_unitario": 1.7706194690265489
  },
  {
-  "Codigo_Produto": 550400418,
+  "Codigo_Produto": "0550400418",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA ELETRODUTO",
@@ -913,7 +913,7 @@
   "Preco_unitario": 16.43
  },
  {
-  "Codigo_Produto": 550400419,
+  "Codigo_Produto": "0550400419",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ELETRODUTO RIGIDO",
@@ -925,7 +925,7 @@
   "Preco_unitario": 86.24571428571429
  },
  {
-  "Codigo_Produto": 550400446,
+  "Codigo_Produto": "0550400446",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA ELETRODUTO",
@@ -937,7 +937,7 @@
   "Preco_unitario": 9.5
  },
  {
-  "Codigo_Produto": 550400495,
+  "Codigo_Produto": "0550400495",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA ELETRODUTO",
@@ -949,7 +949,7 @@
   "Preco_unitario": 2.9499999999999997
  },
  {
-  "Codigo_Produto": 550400577,
+  "Codigo_Produto": "0550400577",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CABECOTE ALUM",
@@ -961,7 +961,7 @@
   "Preco_unitario": 12
  },
  {
-  "Codigo_Produto": 550400725,
+  "Codigo_Produto": "0550400725",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "BOX RETO",
@@ -973,7 +973,7 @@
   "Preco_unitario": 7
  },
  {
-  "Codigo_Produto": 550500030,
+  "Codigo_Produto": "0550500030",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -985,7 +985,7 @@
   "Preco_unitario": 1.2825
  },
  {
-  "Codigo_Produto": 550500031,
+  "Codigo_Produto": "0550500031",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -997,7 +997,7 @@
   "Preco_unitario": 2.7654237288135595
  },
  {
-  "Codigo_Produto": 550500036,
+  "Codigo_Produto": "0550500036",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -1009,7 +1009,7 @@
   "Preco_unitario": 8.17
  },
  {
-  "Codigo_Produto": 550500037,
+  "Codigo_Produto": "0550500037",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -1021,7 +1021,7 @@
   "Preco_unitario": 19.5
  },
  {
-  "Codigo_Produto": 550500049,
+  "Codigo_Produto": "0550500049",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -1033,7 +1033,7 @@
   "Preco_unitario": 0.28
  },
  {
-  "Codigo_Produto": 550500051,
+  "Codigo_Produto": "0550500051",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -1045,7 +1045,7 @@
   "Preco_unitario": 0.42
  },
  {
-  "Codigo_Produto": 550500054,
+  "Codigo_Produto": "0550500054",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -1057,7 +1057,7 @@
   "Preco_unitario": 0.26999999999999996
  },
  {
-  "Codigo_Produto": 550500069,
+  "Codigo_Produto": "0550500069",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -1069,7 +1069,7 @@
   "Preco_unitario": 10
  },
  {
-  "Codigo_Produto": 550500073,
+  "Codigo_Produto": "0550500073",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONECTOR ELET",
@@ -1081,7 +1081,7 @@
   "Preco_unitario": 2.35
  },
  {
-  "Codigo_Produto": 550500111,
+  "Codigo_Produto": "0550500111",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CABO ELETRICO",
@@ -1093,7 +1093,7 @@
   "Preco_unitario": 64.3351111111111
  },
  {
-  "Codigo_Produto": 550500120,
+  "Codigo_Produto": "0550500120",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CABO ELETRICO",
@@ -1105,7 +1105,7 @@
   "Preco_unitario": 6.804545454545454
  },
  {
-  "Codigo_Produto": 550500140,
+  "Codigo_Produto": "0550500140",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA COMPRESSAO",
@@ -1117,7 +1117,7 @@
   "Preco_unitario": 7.85
  },
  {
-  "Codigo_Produto": 550500142,
+  "Codigo_Produto": "0550500142",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA COMPRESSAO",
@@ -1129,7 +1129,7 @@
   "Preco_unitario": 1.7741666666666667
  },
  {
-  "Codigo_Produto": 550500143,
+  "Codigo_Produto": "0550500143",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA COMPRESSAO",
@@ -1141,7 +1141,7 @@
   "Preco_unitario": 4
  },
  {
-  "Codigo_Produto": 550500144,
+  "Codigo_Produto": "0550500144",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA COMPRESSAO",
@@ -1153,7 +1153,7 @@
   "Preco_unitario": 2.9129113924050634
  },
  {
-  "Codigo_Produto": 550500148,
+  "Codigo_Produto": "0550500148",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "PRENSA CAB",
@@ -1165,7 +1165,7 @@
   "Preco_unitario": 1.705769230769231
  },
  {
-  "Codigo_Produto": 550500182,
+  "Codigo_Produto": "0550500182",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -1177,7 +1177,7 @@
   "Preco_unitario": 1.97
  },
  {
-  "Codigo_Produto": 550500211,
+  "Codigo_Produto": "0550500211",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CABO ELETRICO",
@@ -1189,7 +1189,7 @@
   "Preco_unitario": 6.6
  },
  {
-  "Codigo_Produto": 550500229,
+  "Codigo_Produto": "0550500229",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CANALETA PVC",
@@ -1201,7 +1201,7 @@
   "Preco_unitario": 21.72
  },
  {
-  "Codigo_Produto": 550500534,
+  "Codigo_Produto": "0550500534",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CABO ELETRICO",
@@ -1213,7 +1213,7 @@
   "Preco_unitario": 5.95
  },
  {
-  "Codigo_Produto": 550500588,
+  "Codigo_Produto": "0550500588",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA COMPRESSAO",
@@ -1225,7 +1225,7 @@
   "Preco_unitario": 1.9500000000000002
  },
  {
-  "Codigo_Produto": 550500684,
+  "Codigo_Produto": "0550500684",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -1237,7 +1237,7 @@
   "Preco_unitario": 0.38
  },
  {
-  "Codigo_Produto": 550500697,
+  "Codigo_Produto": "0550500697",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -1249,7 +1249,7 @@
   "Preco_unitario": 0.06
  },
  {
-  "Codigo_Produto": 550500801,
+  "Codigo_Produto": "0550500801",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CONECTOR ELETRICO",
@@ -1261,7 +1261,7 @@
   "Preco_unitario": 59.64913043478261
  },
  {
-  "Codigo_Produto": 550500855,
+  "Codigo_Produto": "0550500855",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LUVA EMENDA",
@@ -1273,7 +1273,7 @@
   "Preco_unitario": 0.9800000000000001
  },
  {
-  "Codigo_Produto": 550501153,
+  "Codigo_Produto": "0550501153",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "TERMINAL ELETRICO",
@@ -1285,7 +1285,7 @@
   "Preco_unitario": 2.17
  },
  {
-  "Codigo_Produto": 550501237,
+  "Codigo_Produto": "0550501237",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "BARRA CONECTOR",
@@ -1297,7 +1297,7 @@
   "Preco_unitario": 58
  },
  {
-  "Codigo_Produto": 550600031,
+  "Codigo_Produto": "0550600031",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1309,7 +1309,7 @@
   "Preco_unitario": 44.26857142857143
  },
  {
-  "Codigo_Produto": 550600033,
+  "Codigo_Produto": "0550600033",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1321,7 +1321,7 @@
   "Preco_unitario": 43.74769230769231
  },
  {
-  "Codigo_Produto": 550600038,
+  "Codigo_Produto": "0550600038",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1333,7 +1333,7 @@
   "Preco_unitario": 12.138571428571428
  },
  {
-  "Codigo_Produto": 550600048,
+  "Codigo_Produto": "0550600048",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1345,7 +1345,7 @@
   "Preco_unitario": 245.75833333333333
  },
  {
-  "Codigo_Produto": 550600050,
+  "Codigo_Produto": "0550600050",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1357,7 +1357,7 @@
   "Preco_unitario": 28.315714285714286
  },
  {
-  "Codigo_Produto": 550600052,
+  "Codigo_Produto": "0550600056",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1369,7 +1369,7 @@
   "Preco_unitario": 64.39
  },
  {
-  "Codigo_Produto": 550600056,
+  "Codigo_Produto": "0550600058",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1381,7 +1381,7 @@
   "Preco_unitario": 59.0088
  },
  {
-  "Codigo_Produto": 550600058,
+  "Codigo_Produto": "0550600060",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1393,7 +1393,7 @@
   "Preco_unitario": 83.92777777777778
  },
  {
-  "Codigo_Produto": 550600060,
+  "Codigo_Produto": "0550600069",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1405,7 +1405,7 @@
   "Preco_unitario": 34.92375
  },
  {
-  "Codigo_Produto": 550600069,
+  "Codigo_Produto": "0550600110",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1417,7 +1417,7 @@
   "Preco_unitario": 252.20000000000002
  },
  {
-  "Codigo_Produto": 550600110,
+  "Codigo_Produto": "0550600111",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ELO FUSIVEL",
@@ -1429,7 +1429,7 @@
   "Preco_unitario": 12
  },
  {
-  "Codigo_Produto": 550600111,
+  "Codigo_Produto": "0550600116",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ELO FUSIVEL",
@@ -1441,7 +1441,7 @@
   "Preco_unitario": 10
  },
  {
-  "Codigo_Produto": 550600116,
+  "Codigo_Produto": "0550600129",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "ELO FUSIVEL",
@@ -1453,7 +1453,7 @@
   "Preco_unitario": 26
  },
  {
-  "Codigo_Produto": 550600129,
+  "Codigo_Produto": "0550650047",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FUSIVEL NH",
@@ -1465,7 +1465,7 @@
   "Preco_unitario": 83.9276923076923
  },
  {
-  "Codigo_Produto": 550650047,
+  "Codigo_Produto": "0550650050",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FILTRO LUBRIFICANTE",
@@ -1477,7 +1477,7 @@
   "Preco_unitario": 47.16
  },
  {
-  "Codigo_Produto": 550650050,
+  "Codigo_Produto": "0550750060",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FILTRO COMBUSTIVEL",
@@ -1489,7 +1489,7 @@
   "Preco_unitario": 45.324
  },
  {
-  "Codigo_Produto": 550750060,
+  "Codigo_Produto": "0550750124",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "HASTE ATERRAMENTO",
@@ -1501,7 +1501,7 @@
   "Preco_unitario": 60
  },
  {
-  "Codigo_Produto": 550750124,
+  "Codigo_Produto": "0550800008",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "CINTA POSTE",
@@ -1513,7 +1513,7 @@
   "Preco_unitario": 27.15
  },
  {
-  "Codigo_Produto": 550800008,
+  "Codigo_Produto": "0550800013",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "REATOR ELETRONICO",
@@ -1525,7 +1525,7 @@
   "Preco_unitario": 80.1
  },
  {
-  "Codigo_Produto": 550800013,
+  "Codigo_Produto": "0550800016",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "REATOR ELETRONICO",
@@ -1537,7 +1537,7 @@
   "Preco_unitario": 49.15
  },
  {
-  "Codigo_Produto": 550800016,
+  "Codigo_Produto": "0550800038",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "REATOR ELETRONICO",
@@ -1549,7 +1549,7 @@
   "Preco_unitario": 29.2
  },
  {
-  "Codigo_Produto": 550800038,
+  "Codigo_Produto": "0550800055",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LAMPADA FLUORES",
@@ -1561,7 +1561,7 @@
   "Preco_unitario": 16.636666666666667
  },
  {
-  "Codigo_Produto": 550800055,
+  "Codigo_Produto": "0550800220",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LAMPADA FLUORESCENTE",
@@ -1573,7 +1573,7 @@
   "Preco_unitario": 12.75
  },
  {
-  "Codigo_Produto": 550800220,
+  "Codigo_Produto": "0550800231",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LAMPADA LED",
@@ -1585,7 +1585,7 @@
   "Preco_unitario": 8.628333333333334
  },
  {
-  "Codigo_Produto": 550800231,
+  "Codigo_Produto": "0550800292",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "REFLETOR RETANGULAR",
@@ -1597,7 +1597,7 @@
   "Preco_unitario": 48.708888888888886
  },
  {
-  "Codigo_Produto": 550800292,
+  "Codigo_Produto": "0550800391",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LAMPADA FLUORESCENTE",
@@ -1609,7 +1609,7 @@
   "Preco_unitario": 29.665
  },
  {
-  "Codigo_Produto": 550800391,
+  "Codigo_Produto": "0550800501",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "FOTOCELULA POLIPROPILENO",
@@ -1621,7 +1621,7 @@
   "Preco_unitario": 20.91076923076923
  },
  {
-  "Codigo_Produto": 550800501,
+  "Codigo_Produto": "0550850001",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "LAMPADA LED",
@@ -1633,7 +1633,7 @@
   "Preco_unitario": 253.13
  },
  {
-  "Codigo_Produto": 550850001,
+  "Codigo_Produto": "0551100111",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "BASE TERMOPLASTICO",
@@ -1645,7 +1645,7 @@
   "Preco_unitario": 19.830000000000002
  },
  {
-  "Codigo_Produto": 551100111,
+  "Codigo_Produto": "0551150004",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "QUADRO COMANDO",
@@ -1657,7 +1657,7 @@
   "Preco_unitario": 819.12
  },
  {
-  "Codigo_Produto": 551150004,
+  "Codigo_Produto": "0551150017",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1669,7 +1669,7 @@
   "Preco_unitario": 145.385
  },
  {
-  "Codigo_Produto": 551150017,
+  "Codigo_Produto": "0551150026",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1681,7 +1681,7 @@
   "Preco_unitario": 76.11
  },
  {
-  "Codigo_Produto": 551150026,
+  "Codigo_Produto": "0551150028",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1693,7 +1693,7 @@
   "Preco_unitario": 135.89785714285713
  },
  {
-  "Codigo_Produto": 551150028,
+  "Codigo_Produto": "0551150032",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1705,7 +1705,7 @@
   "Preco_unitario": 142.83954545454546
  },
  {
-  "Codigo_Produto": 551150032,
+  "Codigo_Produto": "0551150033",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1717,7 +1717,7 @@
   "Preco_unitario": 161.96
  },
  {
-  "Codigo_Produto": 551150033,
+  "Codigo_Produto": "0551150034",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1729,7 +1729,7 @@
   "Preco_unitario": 180
  },
  {
-  "Codigo_Produto": 551150034,
+  "Codigo_Produto": "0551150036",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1741,7 +1741,7 @@
   "Preco_unitario": 177.605
  },
  {
-  "Codigo_Produto": 551150036,
+  "Codigo_Produto": "0551150037",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1753,7 +1753,7 @@
   "Preco_unitario": 285
  },
  {
-  "Codigo_Produto": 551150037,
+  "Codigo_Produto": "0551150038",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1765,7 +1765,7 @@
   "Preco_unitario": 213.41
  },
  {
-  "Codigo_Produto": 551150038,
+  "Codigo_Produto": "0551150039",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1777,7 +1777,7 @@
   "Preco_unitario": 336.4
  },
  {
-  "Codigo_Produto": 551150039,
+  "Codigo_Produto": "0551150166",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1789,7 +1789,7 @@
   "Preco_unitario": 85.05
  },
  {
-  "Codigo_Produto": 551150166,
+  "Codigo_Produto": "0551150223",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "SOQUETE RELE",
@@ -1801,7 +1801,7 @@
   "Preco_unitario": 27.52
  },
  {
-  "Codigo_Produto": 551150223,
+  "Codigo_Produto": "0551150224",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1813,7 +1813,7 @@
   "Preco_unitario": 102.845
  },
  {
-  "Codigo_Produto": 551150224,
+  "Codigo_Produto": "0551150225",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1825,7 +1825,7 @@
   "Preco_unitario": 102.85
  },
  {
-  "Codigo_Produto": 551150225,
+  "Codigo_Produto": "0551150228",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1837,7 +1837,7 @@
   "Preco_unitario": 102.845
  },
  {
-  "Codigo_Produto": 551150228,
+  "Codigo_Produto": "0551150239",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1849,7 +1849,7 @@
   "Preco_unitario": 102.85
  },
  {
-  "Codigo_Produto": 551150239,
+  "Codigo_Produto": "0551150240",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1861,7 +1861,7 @@
   "Preco_unitario": 430.6
  },
  {
-  "Codigo_Produto": 551150240,
+  "Codigo_Produto": "0551150241",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1873,7 +1873,7 @@
   "Preco_unitario": 413.9318181818182
  },
  {
-  "Codigo_Produto": 551150241,
+  "Codigo_Produto": "0551150243",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1885,7 +1885,7 @@
   "Preco_unitario": 193.87666666666667
  },
  {
-  "Codigo_Produto": 551150243,
+  "Codigo_Produto": "0551150244",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1897,7 +1897,7 @@
   "Preco_unitario": 255.58333333333334
  },
  {
-  "Codigo_Produto": 551150244,
+  "Codigo_Produto": "0551150245",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1909,7 +1909,7 @@
   "Preco_unitario": 277.3
  },
  {
-  "Codigo_Produto": 551150245,
+  "Codigo_Produto": "0551150246",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1921,7 +1921,7 @@
   "Preco_unitario": 255.58333333333334
  },
  {
-  "Codigo_Produto": 551150246,
+  "Codigo_Produto": "0600450007",
   "Grupo": 55,
   "Categoria": "ELETRICOS",
   "Nome": "RELE SOBRECARGA",
@@ -1933,7 +1933,7 @@
   "Preco_unitario": 228.44
  },
  {
-  "Codigo_Produto": 600450007,
+  "Codigo_Produto": "0650050034",
   "Grupo": 60,
   "Categoria": "EMBALAGENS",
   "Nome": "FITA CREPE",
@@ -1945,7 +1945,7 @@
   "Preco_unitario": 3.321739130434783
  },
  {
-  "Codigo_Produto": 650050034,
+  "Codigo_Produto": "0650050087",
   "Grupo": 65,
   "Categoria": "ESCRITORIO",
   "Nome": "CORRETIVO LIQUIDO",
@@ -1957,7 +1957,7 @@
   "Preco_unitario": 1.9780000000000002
  },
  {
-  "Codigo_Produto": 650050087,
+  "Codigo_Produto": "0650050088",
   "Grupo": 65,
   "Categoria": "ESCRITORIO",
   "Nome": "CANETA MARCADOR",
@@ -1969,7 +1969,7 @@
   "Preco_unitario": 3.3138
  },
  {
-  "Codigo_Produto": 650050088,
+  "Codigo_Produto": "0650050089",
   "Grupo": 65,
   "Categoria": "ESCRITORIO",
   "Nome": "CANETA MARCADOR",
@@ -1981,7 +1981,7 @@
   "Preco_unitario": 4.205454545454545
  },
  {
-  "Codigo_Produto": 650050089,
+  "Codigo_Produto": "0650200096",
   "Grupo": 65,
   "Categoria": "ESCRITORIO",
   "Nome": "CANETA MARCADOR",
@@ -1993,7 +1993,7 @@
   "Preco_unitario": 9.028
  },
  {
-  "Codigo_Produto": 650200096,
+  "Codigo_Produto": "0700150015",
   "Grupo": 65,
   "Categoria": "ESCRITORIO",
   "Nome": "BOBINA TERMICA",
@@ -2005,7 +2005,7 @@
   "Preco_unitario": 3.6649999999999996
  },
  {
-  "Codigo_Produto": 700150015,
+  "Codigo_Produto": "0700150263",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE AVULSA",
@@ -2017,7 +2017,7 @@
   "Preco_unitario": 125.56
  },
  {
-  "Codigo_Produto": 700150263,
+  "Codigo_Produto": "0700150264",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE PESC",
@@ -2029,7 +2029,7 @@
   "Preco_unitario": 446.2652083333333
  },
  {
-  "Codigo_Produto": 700150264,
+  "Codigo_Produto": "0700150265",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE PESC",
@@ -2041,7 +2041,7 @@
   "Preco_unitario": 1459.2
  },
  {
-  "Codigo_Produto": 700150265,
+  "Codigo_Produto": "0700150266",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE PESC",
@@ -2053,7 +2053,7 @@
   "Preco_unitario": 210.08842105263156
  },
  {
-  "Codigo_Produto": 700150266,
+  "Codigo_Produto": "0700150267",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE PESC",
@@ -2065,7 +2065,7 @@
   "Preco_unitario": 329.90611111111116
  },
  {
-  "Codigo_Produto": 700150267,
+  "Codigo_Produto": "0700150270",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE PESC",
@@ -2077,7 +2077,7 @@
   "Preco_unitario": 994.08
  },
  {
-  "Codigo_Produto": 700150270,
+  "Codigo_Produto": "0700150271",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE PESC",
@@ -2089,7 +2089,7 @@
   "Preco_unitario": 78.01176470588236
  },
  {
-  "Codigo_Produto": 700150271,
+  "Codigo_Produto": "0700150276",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE PESC",
@@ -2101,7 +2101,7 @@
   "Preco_unitario": 131.73333333333332
  },
  {
-  "Codigo_Produto": 700150276,
+  "Codigo_Produto": "0700150373",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE PESC",
@@ -2113,7 +2113,7 @@
   "Preco_unitario": 2188.7999999999997
  },
  {
-  "Codigo_Produto": 700150373,
+  "Codigo_Produto": "0700150501",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE CEGO",
@@ -2125,7 +2125,7 @@
   "Preco_unitario": 1930
  },
  {
-  "Codigo_Produto": 700150501,
+  "Codigo_Produto": "0700200034",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE SOLT",
@@ -2137,7 +2137,7 @@
   "Preco_unitario": 105.33999999999999
  },
  {
-  "Codigo_Produto": 700200034,
+  "Codigo_Produto": "0700200153",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JUNTA MAXIQUICK",
@@ -2149,7 +2149,7 @@
   "Preco_unitario": 1396
  },
  {
-  "Codigo_Produto": 700200153,
+  "Codigo_Produto": "0700500154",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JUNTA DESMONTAGEM",
@@ -2161,7 +2161,7 @@
   "Preco_unitario": 1300
  },
  {
-  "Codigo_Produto": 700500154,
+  "Codigo_Produto": "0700500192",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° AC",
@@ -2173,7 +2173,7 @@
   "Preco_unitario": 71
  },
  {
-  "Codigo_Produto": 700500192,
+  "Codigo_Produto": "0700500408",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE RED",
@@ -2185,7 +2185,7 @@
   "Preco_unitario": 1162.8
  },
  {
-  "Codigo_Produto": 700500408,
+  "Codigo_Produto": "0700500410",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO S",
@@ -2197,7 +2197,7 @@
   "Preco_unitario": 385
  },
  {
-  "Codigo_Produto": 700500410,
+  "Codigo_Produto": "0700500412",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO S",
@@ -2209,7 +2209,7 @@
   "Preco_unitario": 135.14125
  },
  {
-  "Codigo_Produto": 700500412,
+  "Codigo_Produto": "0700500418",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO S",
@@ -2221,7 +2221,7 @@
   "Preco_unitario": 1057
  },
  {
-  "Codigo_Produto": 700500418,
+  "Codigo_Produto": "0700500419",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° LONG",
@@ -2233,7 +2233,7 @@
   "Preco_unitario": 453.31772727272727
  },
  {
-  "Codigo_Produto": 700500419,
+  "Codigo_Produto": "0700500421",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° LONG",
@@ -2245,7 +2245,7 @@
   "Preco_unitario": 112.385
  },
  {
-  "Codigo_Produto": 700500421,
+  "Codigo_Produto": "0700500433",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° LONG",
@@ -2257,7 +2257,7 @@
   "Preco_unitario": 2736
  },
  {
-  "Codigo_Produto": 700500433,
+  "Codigo_Produto": "0700500440",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO CONCENTRICA",
@@ -2269,7 +2269,7 @@
   "Preco_unitario": 102.6
  },
  {
-  "Codigo_Produto": 700500440,
+  "Codigo_Produto": "0700500500",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° LONG",
@@ -2281,7 +2281,7 @@
   "Preco_unitario": 54.720000000000006
  },
  {
-  "Codigo_Produto": 700500500,
+  "Codigo_Produto": "0700500512",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CAP ACO",
@@ -2293,7 +2293,7 @@
   "Preco_unitario": 319.2
  },
  {
-  "Codigo_Produto": 700500512,
+  "Codigo_Produto": "0700500521",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° LONG",
@@ -2305,7 +2305,7 @@
   "Preco_unitario": 386.5863636363636
  },
  {
-  "Codigo_Produto": 700500521,
+  "Codigo_Produto": "0700500536",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° LONG",
@@ -2317,7 +2317,7 @@
   "Preco_unitario": 26.2325
  },
  {
-  "Codigo_Produto": 700500536,
+  "Codigo_Produto": "0700500554",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO CONC",
@@ -2329,7 +2329,7 @@
   "Preco_unitario": 31.92
  },
  {
-  "Codigo_Produto": 700500554,
+  "Codigo_Produto": "0700500557",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE 90° AC",
@@ -2341,7 +2341,7 @@
   "Preco_unitario": 49.5615
  },
  {
-  "Codigo_Produto": 700500557,
+  "Codigo_Produto": "0700500571",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO CONCENTRICA",
@@ -2353,7 +2353,7 @@
   "Preco_unitario": 180.09
  },
  {
-  "Codigo_Produto": 700500571,
+  "Codigo_Produto": "0700500600",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO AC",
@@ -2365,7 +2365,7 @@
   "Preco_unitario": 1644.3
  },
  {
-  "Codigo_Produto": 700500600,
+  "Codigo_Produto": "0700500699",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO CONC",
@@ -2377,7 +2377,7 @@
   "Preco_unitario": 957.6
  },
  {
-  "Codigo_Produto": 700500699,
+  "Codigo_Produto": "0700500722",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE RETO",
@@ -2389,7 +2389,7 @@
   "Preco_unitario": 383.693
  },
  {
-  "Codigo_Produto": 700500722,
+  "Codigo_Produto": "0700500727",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TAMPAO AC",
@@ -2401,7 +2401,7 @@
   "Preco_unitario": 24.619999999999997
  },
  {
-  "Codigo_Produto": 700500727,
+  "Codigo_Produto": "0700500735",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO CONC",
@@ -2413,7 +2413,7 @@
   "Preco_unitario": 208.358
  },
  {
-  "Codigo_Produto": 700500735,
+  "Codigo_Produto": "0700500753",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO EXCENT",
@@ -2425,7 +2425,7 @@
   "Preco_unitario": 30.1
  },
  {
-  "Codigo_Produto": 700500753,
+  "Codigo_Produto": "0700500782",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° LONG",
@@ -2437,7 +2437,7 @@
   "Preco_unitario": 127.25
  },
  {
-  "Codigo_Produto": 700500782,
+  "Codigo_Produto": "0700550183",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO FLEXIVEL",
@@ -2449,7 +2449,7 @@
   "Preco_unitario": 142.51
  },
  {
-  "Codigo_Produto": 700550183,
+  "Codigo_Produto": "0700550264",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO S",
@@ -2461,7 +2461,7 @@
   "Preco_unitario": 106.31
  },
  {
-  "Codigo_Produto": 700550264,
+  "Codigo_Produto": "0700550332",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO EXCENTRICA",
@@ -2473,7 +2473,7 @@
   "Preco_unitario": 150.48
  },
  {
-  "Codigo_Produto": 700550332,
+  "Codigo_Produto": "0700550333",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "INSERT 4 ACO",
@@ -2485,7 +2485,7 @@
   "Preco_unitario": 3230
  },
  {
-  "Codigo_Produto": 700550333,
+  "Codigo_Produto": "0700550334",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "INSERT 5 ACO",
@@ -2497,7 +2497,7 @@
   "Preco_unitario": 1995
  },
  {
-  "Codigo_Produto": 700550334,
+  "Codigo_Produto": "0700550383",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "INSERT 6 ACO",
@@ -2509,7 +2509,7 @@
   "Preco_unitario": 3135
  },
  {
-  "Codigo_Produto": 700550383,
+  "Codigo_Produto": "0700550392",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° LONG",
@@ -2521,7 +2521,7 @@
   "Preco_unitario": 150.48
  },
  {
-  "Codigo_Produto": 700550392,
+  "Codigo_Produto": "0700600002",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO S",
@@ -2533,7 +2533,7 @@
   "Preco_unitario": 1846.8
  },
  {
-  "Codigo_Produto": 700600002,
+  "Codigo_Produto": "0700650021",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "BISELADOR ALUM",
@@ -2545,7 +2545,7 @@
   "Preco_unitario": 79.1097435897436
  },
  {
-  "Codigo_Produto": 700650021,
+  "Codigo_Produto": "0700850020",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "GUARNICAO NBR",
@@ -2557,7 +2557,7 @@
   "Preco_unitario": 1.0999999999999999
  },
  {
-  "Codigo_Produto": 700850020,
+  "Codigo_Produto": "0700850038",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JUNCAO 45° PR",
@@ -2569,7 +2569,7 @@
   "Preco_unitario": 860.28
  },
  {
-  "Codigo_Produto": 700850038,
+  "Codigo_Produto": "0700850050",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 11° FF",
@@ -2581,7 +2581,7 @@
   "Preco_unitario": 258.38
  },
  {
-  "Codigo_Produto": 700850050,
+  "Codigo_Produto": "0700850056",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 11° FF",
@@ -2593,7 +2593,7 @@
   "Preco_unitario": 737.11
  },
  {
-  "Codigo_Produto": 700850056,
+  "Codigo_Produto": "0700850059",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 11° FF",
@@ -2605,7 +2605,7 @@
   "Preco_unitario": 905.1
  },
  {
-  "Codigo_Produto": 700850059,
+  "Codigo_Produto": "0700850074",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -2617,7 +2617,7 @@
   "Preco_unitario": 1681.28
  },
  {
-  "Codigo_Produto": 700850074,
+  "Codigo_Produto": "0700850078",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 22° FF",
@@ -2629,7 +2629,7 @@
   "Preco_unitario": 374
  },
  {
-  "Codigo_Produto": 700850078,
+  "Codigo_Produto": "0700850079",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 22° FF",
@@ -2641,7 +2641,7 @@
   "Preco_unitario": 528.61
  },
  {
-  "Codigo_Produto": 700850079,
+  "Codigo_Produto": "0700850097",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 22° FF",
@@ -2653,7 +2653,7 @@
   "Preco_unitario": 633.14
  },
  {
-  "Codigo_Produto": 700850097,
+  "Codigo_Produto": "0700850098",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -2665,7 +2665,7 @@
   "Preco_unitario": 77.04
  },
  {
-  "Codigo_Produto": 700850098,
+  "Codigo_Produto": "0700850099",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -2677,7 +2677,7 @@
   "Preco_unitario": 119.87
  },
  {
-  "Codigo_Produto": 700850099,
+  "Codigo_Produto": "0700850102",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -2689,7 +2689,7 @@
   "Preco_unitario": 178.0125
  },
  {
-  "Codigo_Produto": 700850102,
+  "Codigo_Produto": "0700850107",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -2701,7 +2701,7 @@
   "Preco_unitario": 165.56
  },
  {
-  "Codigo_Produto": 700850107,
+  "Codigo_Produto": "0700850110",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -2713,7 +2713,7 @@
   "Preco_unitario": 450.475
  },
  {
-  "Codigo_Produto": 700850110,
+  "Codigo_Produto": "0700850115",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -2725,7 +2725,7 @@
   "Preco_unitario": 2695.33
  },
  {
-  "Codigo_Produto": 700850115,
+  "Codigo_Produto": "0700850116",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° FF",
@@ -2737,7 +2737,7 @@
   "Preco_unitario": 16.05
  },
  {
-  "Codigo_Produto": 700850116,
+  "Codigo_Produto": "0700850119",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° FF",
@@ -2749,7 +2749,7 @@
   "Preco_unitario": 116
  },
  {
-  "Codigo_Produto": 700850119,
+  "Codigo_Produto": "0700850124",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° FF",
@@ -2761,7 +2761,7 @@
   "Preco_unitario": 201.02933333333334
  },
  {
-  "Codigo_Produto": 700850124,
+  "Codigo_Produto": "0700850130",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° FF",
@@ -2773,7 +2773,7 @@
   "Preco_unitario": 1788
  },
  {
-  "Codigo_Produto": 700850130,
+  "Codigo_Produto": "0700850147",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -2785,7 +2785,7 @@
   "Preco_unitario": 1221.66
  },
  {
-  "Codigo_Produto": 700850147,
+  "Codigo_Produto": "0700850148",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -2797,7 +2797,7 @@
   "Preco_unitario": 139.1
  },
  {
-  "Codigo_Produto": 700850148,
+  "Codigo_Produto": "0700850151",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -2809,7 +2809,7 @@
   "Preco_unitario": 64.13416666666667
  },
  {
-  "Codigo_Produto": 700850151,
+  "Codigo_Produto": "0700850161",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -2821,7 +2821,7 @@
   "Preco_unitario": 242.63400000000001
  },
  {
-  "Codigo_Produto": 700850161,
+  "Codigo_Produto": "0700850162",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE FF",
@@ -2833,7 +2833,7 @@
   "Preco_unitario": 296.62666666666667
  },
  {
-  "Codigo_Produto": 700850162,
+  "Codigo_Produto": "0700850171",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE FF",
@@ -2845,7 +2845,7 @@
   "Preco_unitario": 386.17333333333335
  },
  {
-  "Codigo_Produto": 700850171,
+  "Codigo_Produto": "0700850173",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -2857,7 +2857,7 @@
   "Preco_unitario": 246.505
  },
  {
-  "Codigo_Produto": 700850173,
+  "Codigo_Produto": "0700850263",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -2869,7 +2869,7 @@
   "Preco_unitario": 270.5628571428571
  },
  {
-  "Codigo_Produto": 700850263,
+  "Codigo_Produto": "0700850301",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO FERRO",
@@ -2881,7 +2881,7 @@
   "Preco_unitario": 606
  },
  {
-  "Codigo_Produto": 700850301,
+  "Codigo_Produto": "0700850310",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° FF",
@@ -2893,7 +2893,7 @@
   "Preco_unitario": 26
  },
  {
-  "Codigo_Produto": 700850310,
+  "Codigo_Produto": "0700850323",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° FF",
@@ -2905,7 +2905,7 @@
   "Preco_unitario": 1558.8
  },
  {
-  "Codigo_Produto": 700850323,
+  "Codigo_Produto": "0700850324",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -2917,7 +2917,7 @@
   "Preco_unitario": 142.93
  },
  {
-  "Codigo_Produto": 700850324,
+  "Codigo_Produto": "0700850325",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -2929,7 +2929,7 @@
   "Preco_unitario": 223.65
  },
  {
-  "Codigo_Produto": 700850325,
+  "Codigo_Produto": "0700850352",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -2941,7 +2941,7 @@
   "Preco_unitario": 923.25
  },
  {
-  "Codigo_Produto": 700850352,
+  "Codigo_Produto": "0700850427",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO FF",
@@ -2953,7 +2953,7 @@
   "Preco_unitario": 516.88
  },
  {
-  "Codigo_Produto": 700850427,
+  "Codigo_Produto": "0700850443",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO CONCENTRICA",
@@ -2965,7 +2965,7 @@
   "Preco_unitario": 324
  },
  {
-  "Codigo_Produto": 700850443,
+  "Codigo_Produto": "0700850446",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO CONCENTRICA",
@@ -2977,7 +2977,7 @@
   "Preco_unitario": 1200
  },
  {
-  "Codigo_Produto": 700850446,
+  "Codigo_Produto": "0700850448",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO EXCENTRICA",
@@ -2989,7 +2989,7 @@
   "Preco_unitario": 1757.835
  },
  {
-  "Codigo_Produto": 700850448,
+  "Codigo_Produto": "0700850449",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO EXCENTRICA",
@@ -3001,7 +3001,7 @@
   "Preco_unitario": 4173.12
  },
  {
-  "Codigo_Produto": 700850449,
+  "Codigo_Produto": "0700850452",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO EXCENTRICA",
@@ -3013,7 +3013,7 @@
   "Preco_unitario": 5425.06
  },
  {
-  "Codigo_Produto": 700850452,
+  "Codigo_Produto": "0700850454",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO EXCENTRICA",
@@ -3025,7 +3025,7 @@
   "Preco_unitario": 1478.79
  },
  {
-  "Codigo_Produto": 700850454,
+  "Codigo_Produto": "0700850498",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO EXCENTRICA",
@@ -3037,7 +3037,7 @@
   "Preco_unitario": 652.83
  },
  {
-  "Codigo_Produto": 700850498,
+  "Codigo_Produto": "0700850499",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° FF",
@@ -3049,7 +3049,7 @@
   "Preco_unitario": 667
  },
  {
-  "Codigo_Produto": 700850499,
+  "Codigo_Produto": "0700850755",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "EXTREMIDADE FF",
@@ -3061,7 +3061,7 @@
   "Preco_unitario": 86.75153846153846
  },
  {
-  "Codigo_Produto": 700850755,
+  "Codigo_Produto": "0700850820",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO CONCENTRICA",
@@ -3073,7 +3073,7 @@
   "Preco_unitario": 600.6
  },
  {
-  "Codigo_Produto": 700850820,
+  "Codigo_Produto": "0700850921",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "COLAR TOMADA",
@@ -3085,7 +3085,7 @@
   "Preco_unitario": 55.77333333333333
  },
  {
-  "Codigo_Produto": 700850921,
+  "Codigo_Produto": "0700850925",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "COLAR TOMADA",
@@ -3097,7 +3097,7 @@
   "Preco_unitario": 30.615
  },
  {
-  "Codigo_Produto": 700850925,
+  "Codigo_Produto": "0700851022",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "ADAPTADOR FF",
@@ -3109,7 +3109,7 @@
   "Preco_unitario": 74
  },
  {
-  "Codigo_Produto": 700851022,
+  "Codigo_Produto": "0700851026",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO CIL",
@@ -3121,7 +3121,7 @@
   "Preco_unitario": 2904.38
  },
  {
-  "Codigo_Produto": 700851026,
+  "Codigo_Produto": "0700851327",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO CIL",
@@ -3133,7 +3133,7 @@
   "Preco_unitario": 1103.575
  },
  {
-  "Codigo_Produto": 700851327,
+  "Codigo_Produto": "0700851372",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JUNCAO 45° FERRO",
@@ -3145,7 +3145,7 @@
   "Preco_unitario": 2258
  },
  {
-  "Codigo_Produto": 700851372,
+  "Codigo_Produto": "0700851717",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE CEGO",
@@ -3157,7 +3157,7 @@
   "Preco_unitario": 80.2825
  },
  {
-  "Codigo_Produto": 700851717,
+  "Codigo_Produto": "0700851724",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO FF",
@@ -3169,7 +3169,7 @@
   "Preco_unitario": 323.28
  },
  {
-  "Codigo_Produto": 700851724,
+  "Codigo_Produto": "0700851761",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JUNCAO 45° FERRO",
@@ -3181,7 +3181,7 @@
   "Preco_unitario": 344.2
  },
  {
-  "Codigo_Produto": 700851761,
+  "Codigo_Produto": "0700851890",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -3193,7 +3193,7 @@
   "Preco_unitario": 140.95
  },
  {
-  "Codigo_Produto": 700851890,
+  "Codigo_Produto": "0700851924",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -3205,7 +3205,7 @@
   "Preco_unitario": 630
  },
  {
-  "Codigo_Produto": 700851924,
+  "Codigo_Produto": "0700852014",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 11° FF",
@@ -3217,7 +3217,7 @@
   "Preco_unitario": 150.48
  },
  {
-  "Codigo_Produto": 700852014,
+  "Codigo_Produto": "0700852059",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 22° FF",
@@ -3229,7 +3229,7 @@
   "Preco_unitario": 329
  },
  {
-  "Codigo_Produto": 700852059,
+  "Codigo_Produto": "0700852081",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -3241,7 +3241,7 @@
   "Preco_unitario": 1059.29
  },
  {
-  "Codigo_Produto": 700852081,
+  "Codigo_Produto": "0700852238",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -3253,7 +3253,7 @@
   "Preco_unitario": 908.792
  },
  {
-  "Codigo_Produto": 700852238,
+  "Codigo_Produto": "0700852256",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA TRIPARTIDA",
@@ -3265,7 +3265,7 @@
   "Preco_unitario": 124.52352941176471
  },
  {
-  "Codigo_Produto": 700852256,
+  "Codigo_Produto": "0700852258",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA TRIPARTIDA",
@@ -3277,7 +3277,7 @@
   "Preco_unitario": 422.5
  },
  {
-  "Codigo_Produto": 700852258,
+  "Codigo_Produto": "0700852265",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA TRIPARTIDA",
@@ -3289,7 +3289,7 @@
   "Preco_unitario": 914.54
  },
  {
-  "Codigo_Produto": 700852265,
+  "Codigo_Produto": "0700852289",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE FF",
@@ -3301,7 +3301,7 @@
   "Preco_unitario": 2465.81
  },
  {
-  "Codigo_Produto": 700852289,
+  "Codigo_Produto": "0700852357",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO FERRO",
@@ -3313,7 +3313,7 @@
   "Preco_unitario": 561.4499999999999
  },
  {
-  "Codigo_Produto": 700852357,
+  "Codigo_Produto": "0700852360",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -3325,7 +3325,7 @@
   "Preco_unitario": 699.23
  },
  {
-  "Codigo_Produto": 700852360,
+  "Codigo_Produto": "0700852377",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -3337,7 +3337,7 @@
   "Preco_unitario": 1465.5875
  },
  {
-  "Codigo_Produto": 700852377,
+  "Codigo_Produto": "0700852420",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO INTEG",
@@ -3349,7 +3349,7 @@
   "Preco_unitario": 1209.35
  },
  {
-  "Codigo_Produto": 700852420,
+  "Codigo_Produto": "0700852489",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "FLANGE CEGO",
@@ -3361,7 +3361,7 @@
   "Preco_unitario": 615.13
  },
  {
-  "Codigo_Produto": 700852489,
+  "Codigo_Produto": "0700852606",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -3373,7 +3373,7 @@
   "Preco_unitario": 854.175
  },
  {
-  "Codigo_Produto": 700852606,
+  "Codigo_Produto": "0700852635",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -3385,7 +3385,7 @@
   "Preco_unitario": 1762.97
  },
  {
-  "Codigo_Produto": 700852635,
+  "Codigo_Produto": "0700852638",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -3397,7 +3397,7 @@
   "Preco_unitario": 1176.3799999999999
  },
  {
-  "Codigo_Produto": 700852638,
+  "Codigo_Produto": "0700852642",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO FF",
@@ -3409,7 +3409,7 @@
   "Preco_unitario": 972
  },
  {
-  "Codigo_Produto": 700852642,
+  "Codigo_Produto": "0700852733",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO FF",
@@ -3421,7 +3421,7 @@
   "Preco_unitario": 1404
  },
  {
-  "Codigo_Produto": 700852733,
+  "Codigo_Produto": "0700852734",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE FF",
@@ -3433,7 +3433,7 @@
   "Preco_unitario": 504.29
  },
  {
-  "Codigo_Produto": 700852734,
+  "Codigo_Produto": "0700852736",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -3445,7 +3445,7 @@
   "Preco_unitario": 500.95
  },
  {
-  "Codigo_Produto": 700852736,
+  "Codigo_Produto": "0700852740",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO FERRO",
@@ -3457,7 +3457,7 @@
   "Preco_unitario": 3778.09
  },
  {
-  "Codigo_Produto": 700852740,
+  "Codigo_Produto": "0700852741",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TOCO FF",
@@ -3469,7 +3469,7 @@
   "Preco_unitario": 617.2952898550725
  },
  {
-  "Codigo_Produto": 700852741,
+  "Codigo_Produto": "0700852768",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TOCO FF",
@@ -3481,7 +3481,7 @@
   "Preco_unitario": 1013.817391304348
  },
  {
-  "Codigo_Produto": 700852768,
+  "Codigo_Produto": "0700852775",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3493,7 +3493,7 @@
   "Preco_unitario": 666.0687919463087
  },
  {
-  "Codigo_Produto": 700852775,
+  "Codigo_Produto": "0700852776",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3505,7 +3505,7 @@
   "Preco_unitario": 1676.755
  },
  {
-  "Codigo_Produto": 700852776,
+  "Codigo_Produto": "0700852779",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3517,7 +3517,7 @@
   "Preco_unitario": 992.3147058823529
  },
  {
-  "Codigo_Produto": 700852779,
+  "Codigo_Produto": "0700852780",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3529,7 +3529,7 @@
   "Preco_unitario": 493.45733333333334
  },
  {
-  "Codigo_Produto": 700852780,
+  "Codigo_Produto": "0700852781",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 22,5° FF",
@@ -3541,7 +3541,7 @@
   "Preco_unitario": 1405.23
  },
  {
-  "Codigo_Produto": 700852781,
+  "Codigo_Produto": "0700852796",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3553,7 +3553,7 @@
   "Preco_unitario": 850.5
  },
  {
-  "Codigo_Produto": 700852796,
+  "Codigo_Produto": "0700852797",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA BIPARTIDA",
@@ -3565,7 +3565,7 @@
   "Preco_unitario": 717.23
  },
  {
-  "Codigo_Produto": 700852797,
+  "Codigo_Produto": "0700852798",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA BIPARTIDA",
@@ -3577,7 +3577,7 @@
   "Preco_unitario": 766.25
  },
  {
-  "Codigo_Produto": 700852798,
+  "Codigo_Produto": "0700852816",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA BIPARTIDA",
@@ -3589,7 +3589,7 @@
   "Preco_unitario": 512.79
  },
  {
-  "Codigo_Produto": 700852816,
+  "Codigo_Produto": "0700852821",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO FF",
@@ -3601,7 +3601,7 @@
   "Preco_unitario": 972
  },
  {
-  "Codigo_Produto": 700852821,
+  "Codigo_Produto": "0700852883",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE FF",
@@ -3613,7 +3613,7 @@
   "Preco_unitario": 3000
  },
  {
-  "Codigo_Produto": 700852883,
+  "Codigo_Produto": "0700852957",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3625,7 +3625,7 @@
   "Preco_unitario": 1722.4
  },
  {
-  "Codigo_Produto": 700852957,
+  "Codigo_Produto": "0700853024",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3637,7 +3637,7 @@
   "Preco_unitario": 565.0542857142857
  },
  {
-  "Codigo_Produto": 700853024,
+  "Codigo_Produto": "0700853026",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3649,7 +3649,7 @@
   "Preco_unitario": 585.25
  },
  {
-  "Codigo_Produto": 700853026,
+  "Codigo_Produto": "0700853027",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3661,7 +3661,7 @@
   "Preco_unitario": 2447.98
  },
  {
-  "Codigo_Produto": 700853027,
+  "Codigo_Produto": "0700853028",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3673,7 +3673,7 @@
   "Preco_unitario": 1379.885
  },
  {
-  "Codigo_Produto": 700853028,
+  "Codigo_Produto": "0700853029",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3685,7 +3685,7 @@
   "Preco_unitario": 1889.81
  },
  {
-  "Codigo_Produto": 700853029,
+  "Codigo_Produto": "0700853033",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3697,7 +3697,7 @@
   "Preco_unitario": 1534.295
  },
  {
-  "Codigo_Produto": 700853033,
+  "Codigo_Produto": "0700853380",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3709,7 +3709,7 @@
   "Preco_unitario": 1068.09
  },
  {
-  "Codigo_Produto": 700853380,
+  "Codigo_Produto": "0700853388",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO FERRO",
@@ -3721,7 +3721,7 @@
   "Preco_unitario": 5790.4
  },
  {
-  "Codigo_Produto": 700853388,
+  "Codigo_Produto": "0700853389",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 22° FF",
@@ -3733,7 +3733,7 @@
   "Preco_unitario": 1301.64
  },
  {
-  "Codigo_Produto": 700853389,
+  "Codigo_Produto": "0700853417",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -3745,7 +3745,7 @@
   "Preco_unitario": 1454.98
  },
  {
-  "Codigo_Produto": 700853417,
+  "Codigo_Produto": "0700853458",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -3757,7 +3757,7 @@
   "Preco_unitario": 723.27
  },
  {
-  "Codigo_Produto": 700853458,
+  "Codigo_Produto": "0700853459",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3769,7 +3769,7 @@
   "Preco_unitario": 4832.1
  },
  {
-  "Codigo_Produto": 700853459,
+  "Codigo_Produto": "0700853487",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° FF",
@@ -3781,7 +3781,7 @@
   "Preco_unitario": 4692
  },
  {
-  "Codigo_Produto": 700853487,
+  "Codigo_Produto": "0700853697",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "COLAR TOMADA",
@@ -3793,7 +3793,7 @@
   "Preco_unitario": 407
  },
  {
-  "Codigo_Produto": 700853697,
+  "Codigo_Produto": "0700853706",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO FF",
@@ -3805,7 +3805,7 @@
   "Preco_unitario": 3080
  },
  {
-  "Codigo_Produto": 700853706,
+  "Codigo_Produto": "0700853779",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -3817,7 +3817,7 @@
   "Preco_unitario": 1380
  },
  {
-  "Codigo_Produto": 700853779,
+  "Codigo_Produto": "0700853867",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3829,7 +3829,7 @@
   "Preco_unitario": 1205.44
  },
  {
-  "Codigo_Produto": 700853867,
+  "Codigo_Produto": "0700854016",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -3841,7 +3841,7 @@
   "Preco_unitario": 527
  },
  {
-  "Codigo_Produto": 700854016,
+  "Codigo_Produto": "0700854463",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3853,7 +3853,7 @@
   "Preco_unitario": 2321.15
  },
  {
-  "Codigo_Produto": 700854463,
+  "Codigo_Produto": "0700900001",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO TOCO",
@@ -3865,7 +3865,7 @@
   "Preco_unitario": 2428.73
  },
  {
-  "Codigo_Produto": 700900001,
+  "Codigo_Produto": "0700950012",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "DISPOSITIVO SUPRESSAO",
@@ -3877,7 +3877,7 @@
   "Preco_unitario": 4.6
  },
  {
-  "Codigo_Produto": 700950012,
+  "Codigo_Produto": "0700950054",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE 90° PEAD",
@@ -3889,7 +3889,7 @@
   "Preco_unitario": 35.097142857142856
  },
  {
-  "Codigo_Produto": 700950054,
+  "Codigo_Produto": "0700950085",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO PEAD",
@@ -3901,7 +3901,7 @@
   "Preco_unitario": 1328.515
  },
  {
-  "Codigo_Produto": 700950085,
+  "Codigo_Produto": "0700950215",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA GOM",
@@ -3913,7 +3913,7 @@
   "Preco_unitario": 77.9
  },
  {
-  "Codigo_Produto": 700950215,
+  "Codigo_Produto": "0700950222",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO CORRUG",
@@ -3925,7 +3925,7 @@
   "Preco_unitario": 698
  },
  {
-  "Codigo_Produto": 700950222,
+  "Codigo_Produto": "0700950233",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO PEAD",
@@ -3937,7 +3937,7 @@
   "Preco_unitario": 5623.92
  },
  {
-  "Codigo_Produto": 700950233,
+  "Codigo_Produto": "0700950286",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -3949,7 +3949,7 @@
   "Preco_unitario": 117.6365
  },
  {
-  "Codigo_Produto": 700950286,
+  "Codigo_Produto": "0700950358",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -3961,7 +3961,7 @@
   "Preco_unitario": 5162.155
  },
  {
-  "Codigo_Produto": 700950358,
+  "Codigo_Produto": "0700950403",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO PEAD",
@@ -3973,7 +3973,7 @@
   "Preco_unitario": 6067.268571428571
  },
  {
-  "Codigo_Produto": 700950403,
+  "Codigo_Produto": "0700950468",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO PEAD",
@@ -3985,7 +3985,7 @@
   "Preco_unitario": 8130
  },
  {
-  "Codigo_Produto": 700950468,
+  "Codigo_Produto": "0700950469",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE 90° PEAD",
@@ -3997,7 +3997,7 @@
   "Preco_unitario": 56
  },
  {
-  "Codigo_Produto": 700950469,
+  "Codigo_Produto": "0700950501",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO PEAD",
@@ -4009,7 +4009,7 @@
   "Preco_unitario": 61
  },
  {
-  "Codigo_Produto": 700950501,
+  "Codigo_Produto": "0701000001",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45A",
@@ -4021,7 +4021,7 @@
   "Preco_unitario": 7796
  },
  {
-  "Codigo_Produto": 701000001,
+  "Codigo_Produto": "0701000051",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "COLARINHO PE",
@@ -4033,7 +4033,7 @@
   "Preco_unitario": 160.5
  },
  {
-  "Codigo_Produto": 701000051,
+  "Codigo_Produto": "0701000109",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JOELHO COMPRESSAO",
@@ -4045,7 +4045,7 @@
   "Preco_unitario": 36.989999999999995
  },
  {
-  "Codigo_Produto": 701000109,
+  "Codigo_Produto": "0701000266",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE SERVICO",
@@ -4057,7 +4057,7 @@
   "Preco_unitario": 34.969
  },
  {
-  "Codigo_Produto": 701000266,
+  "Codigo_Produto": "0701050012",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO REDUCAO",
@@ -4069,7 +4069,7 @@
   "Preco_unitario": 83
  },
  {
-  "Codigo_Produto": 701050012,
+  "Codigo_Produto": "0701050013",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "SELIM COMPACTO",
@@ -4081,7 +4081,7 @@
   "Preco_unitario": 20.045031847133757
  },
  {
-  "Codigo_Produto": 701050013,
+  "Codigo_Produto": "0701050074",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "SELIM COMPACTO",
@@ -4093,7 +4093,7 @@
   "Preco_unitario": 22.89247524752475
  },
  {
-  "Codigo_Produto": 701050074,
+  "Codigo_Produto": "0701050125",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO COLETOR",
@@ -4105,7 +4105,7 @@
   "Preco_unitario": 278.5
  },
  {
-  "Codigo_Produto": 701050125,
+  "Codigo_Produto": "0701050132",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -4117,7 +4117,7 @@
   "Preco_unitario": 91.8
  },
  {
-  "Codigo_Produto": 701050132,
+  "Codigo_Produto": "0701050172",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "ADAPTADOR PVC",
@@ -4129,7 +4129,7 @@
   "Preco_unitario": 121.88
  },
  {
-  "Codigo_Produto": 701050172,
+  "Codigo_Produto": "0701050177",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO COLETOR",
@@ -4141,7 +4141,7 @@
   "Preco_unitario": 443.94
  },
  {
-  "Codigo_Produto": 701050177,
+  "Codigo_Produto": "0701050213",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° CURTO",
@@ -4153,7 +4153,7 @@
   "Preco_unitario": 289.44
  },
  {
-  "Codigo_Produto": 701050213,
+  "Codigo_Produto": "0701050223",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO PRESSURIZADO",
@@ -4165,7 +4165,7 @@
   "Preco_unitario": 1800
  },
  {
-  "Codigo_Produto": 701050223,
+  "Codigo_Produto": "0701050259",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "SELIM SOLDAVEL",
@@ -4177,7 +4177,7 @@
   "Preco_unitario": 42.40869565217391
  },
  {
-  "Codigo_Produto": 701050259,
+  "Codigo_Produto": "0701050263",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "ANEL VEDACAO",
@@ -4189,7 +4189,7 @@
   "Preco_unitario": 1.5219642857142859
  },
  {
-  "Codigo_Produto": 701050263,
+  "Codigo_Produto": "0701050267",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "ANEL VEDACAO",
@@ -4201,7 +4201,7 @@
   "Preco_unitario": 3.190394736842105
  },
  {
-  "Codigo_Produto": 701050267,
+  "Codigo_Produto": "0701050279",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "SELIM SOLDAVEL",
@@ -4213,7 +4213,7 @@
   "Preco_unitario": 87.695
  },
  {
-  "Codigo_Produto": 701050279,
+  "Codigo_Produto": "0701100051",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CHAVETA TRAVA",
@@ -4225,7 +4225,7 @@
   "Preco_unitario": 15
  },
  {
-  "Codigo_Produto": 701100051,
+  "Codigo_Produto": "0701100064",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -4237,7 +4237,7 @@
   "Preco_unitario": 47.17
  },
  {
-  "Codigo_Produto": 701100064,
+  "Codigo_Produto": "0701100066",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO DEFOFO",
@@ -4249,7 +4249,7 @@
   "Preco_unitario": 1277.9014285714286
  },
  {
-  "Codigo_Produto": 701100066,
+  "Codigo_Produto": "0701150025",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO DEFOFO",
@@ -4261,7 +4261,7 @@
   "Preco_unitario": 350.58
  },
  {
-  "Codigo_Produto": 701150025,
+  "Codigo_Produto": "0701150026",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE PVC",
@@ -4273,7 +4273,7 @@
   "Preco_unitario": 10.633333333333333
  },
  {
-  "Codigo_Produto": 701150026,
+  "Codigo_Produto": "0701150028",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE PVC",
@@ -4285,7 +4285,7 @@
   "Preco_unitario": 32.145
  },
  {
-  "Codigo_Produto": 701150028,
+  "Codigo_Produto": "0701150029",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -4297,7 +4297,7 @@
   "Preco_unitario": 30.185
  },
  {
-  "Codigo_Produto": 701150029,
+  "Codigo_Produto": "0701150066",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -4309,7 +4309,7 @@
   "Preco_unitario": 74.27
  },
  {
-  "Codigo_Produto": 701150066,
+  "Codigo_Produto": "0701150069",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO PVC",
@@ -4321,7 +4321,7 @@
   "Preco_unitario": 8.294
  },
  {
-  "Codigo_Produto": 701150069,
+  "Codigo_Produto": "0701150091",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "COLAR TOMADA",
@@ -4333,7 +4333,7 @@
   "Preco_unitario": 3.3249999999999997
  },
  {
-  "Codigo_Produto": 701150091,
+  "Codigo_Produto": "0701150093",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 22° PVC",
@@ -4345,7 +4345,7 @@
   "Preco_unitario": 20.86294117647059
  },
  {
-  "Codigo_Produto": 701150093,
+  "Codigo_Produto": "0701150098",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° PVC",
@@ -4357,7 +4357,7 @@
   "Preco_unitario": 10.757222222222222
  },
  {
-  "Codigo_Produto": 701150098,
+  "Codigo_Produto": "0701150103",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° PVC",
@@ -4369,7 +4369,7 @@
   "Preco_unitario": 34.02764705882353
  },
  {
-  "Codigo_Produto": 701150103,
+  "Codigo_Produto": "0701150113",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -4381,7 +4381,7 @@
   "Preco_unitario": 14.250689655172414
  },
  {
-  "Codigo_Produto": 701150113,
+  "Codigo_Produto": "0701150138",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "REDUCAO PVC",
@@ -4393,7 +4393,7 @@
   "Preco_unitario": 16.505
  },
  {
-  "Codigo_Produto": 701150138,
+  "Codigo_Produto": "0701150140",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CAP PVC",
@@ -4405,7 +4405,7 @@
   "Preco_unitario": 4.15
  },
  {
-  "Codigo_Produto": 701150140,
+  "Codigo_Produto": "0701150219",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CAP PVC",
@@ -4417,7 +4417,7 @@
   "Preco_unitario": 13.3975
  },
  {
-  "Codigo_Produto": 701150219,
+  "Codigo_Produto": "0701200016",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "ANEL VEDACAO",
@@ -4429,7 +4429,7 @@
   "Preco_unitario": 1.934
  },
  {
-  "Codigo_Produto": 701200016,
+  "Codigo_Produto": "0701200036",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CRUZETA PVC",
@@ -4441,7 +4441,7 @@
   "Preco_unitario": 42.75866666666666
  },
  {
-  "Codigo_Produto": 701200036,
+  "Codigo_Produto": "0701200047",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CRUZETA REDUCAO",
@@ -4453,7 +4453,7 @@
   "Preco_unitario": 27.00722222222222
  },
  {
-  "Codigo_Produto": 701200047,
+  "Codigo_Produto": "0701200048",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CRUZETA REDUCAO",
@@ -4465,7 +4465,7 @@
   "Preco_unitario": 41.15428571428571
  },
  {
-  "Codigo_Produto": 701200048,
+  "Codigo_Produto": "0701200056",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CRUZETA REDUCAO",
@@ -4477,7 +4477,7 @@
   "Preco_unitario": 27.68
  },
  {
-  "Codigo_Produto": 701200056,
+  "Codigo_Produto": "0701250011",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CRUZETA PVC",
@@ -4489,7 +4489,7 @@
   "Preco_unitario": 107.48285714285714
  },
  {
-  "Codigo_Produto": 701250011,
+  "Codigo_Produto": "0701250015",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "BUCHA REDUCAO",
@@ -4501,7 +4501,7 @@
   "Preco_unitario": 2.155
  },
  {
-  "Codigo_Produto": 701250015,
+  "Codigo_Produto": "0701250016",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "BUCHA REDUCAO",
@@ -4513,7 +4513,7 @@
   "Preco_unitario": 4.465238095238095
  },
  {
-  "Codigo_Produto": 701250016,
+  "Codigo_Produto": "0701250021",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "BUCHA REDUCAO",
@@ -4525,7 +4525,7 @@
   "Preco_unitario": 5.333333333333333
  },
  {
-  "Codigo_Produto": 701250021,
+  "Codigo_Produto": "0701250029",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "PLUG PVC",
@@ -4537,7 +4537,7 @@
   "Preco_unitario": 0.42
  },
  {
-  "Codigo_Produto": 701250029,
+  "Codigo_Produto": "0701250048",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° PVC",
@@ -4549,7 +4549,7 @@
   "Preco_unitario": 0.39666666666666667
  },
  {
-  "Codigo_Produto": 701250048,
+  "Codigo_Produto": "0701250053",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE PVC",
@@ -4561,7 +4561,7 @@
   "Preco_unitario": 127.60000000000001
  },
  {
-  "Codigo_Produto": 701250053,
+  "Codigo_Produto": "0701250055",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO SOLDAVEL",
@@ -4573,7 +4573,7 @@
   "Preco_unitario": 23.98244897959184
  },
  {
-  "Codigo_Produto": 701250055,
+  "Codigo_Produto": "0701250057",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO SOLDAVEL",
@@ -4585,7 +4585,7 @@
   "Preco_unitario": 36.99947368421053
  },
  {
-  "Codigo_Produto": 701250057,
+  "Codigo_Produto": "0701250061",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO SOLDAVEL",
@@ -4597,7 +4597,7 @@
   "Preco_unitario": 87.92666666666668
  },
  {
-  "Codigo_Produto": 701250061,
+  "Codigo_Produto": "0701250062",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JOELHO 90° PVC",
@@ -4609,7 +4609,7 @@
   "Preco_unitario": 3.3613333333333335
  },
  {
-  "Codigo_Produto": 701250062,
+  "Codigo_Produto": "0701250065",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JOELHO 90° PVC",
@@ -4621,7 +4621,7 @@
   "Preco_unitario": 2.075
  },
  {
-  "Codigo_Produto": 701250065,
+  "Codigo_Produto": "0701250075",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JOELHO 90° PVC",
@@ -4633,7 +4633,7 @@
   "Preco_unitario": 75.26
  },
  {
-  "Codigo_Produto": 701250075,
+  "Codigo_Produto": "0701250076",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO PVC",
@@ -4645,7 +4645,7 @@
   "Preco_unitario": 4.84
  },
  {
-  "Codigo_Produto": 701250076,
+  "Codigo_Produto": "0701250091",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO PVC",
@@ -4657,7 +4657,7 @@
   "Preco_unitario": 37.32333333333333
  },
  {
-  "Codigo_Produto": 701250091,
+  "Codigo_Produto": "0701250092",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA PVC",
@@ -4669,7 +4669,7 @@
   "Preco_unitario": 1.86
  },
  {
-  "Codigo_Produto": 701250092,
+  "Codigo_Produto": "0701250094",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA PVC",
@@ -4681,7 +4681,7 @@
   "Preco_unitario": 6.155
  },
  {
-  "Codigo_Produto": 701250094,
+  "Codigo_Produto": "0701250101",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA PVC",
@@ -4693,7 +4693,7 @@
   "Preco_unitario": 10.03
  },
  {
-  "Codigo_Produto": 701250101,
+  "Codigo_Produto": "0701250107",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA PVC",
@@ -4705,7 +4705,7 @@
   "Preco_unitario": 34.27
  },
  {
-  "Codigo_Produto": 701250107,
+  "Codigo_Produto": "0701250111",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA REDUCAO",
@@ -4717,7 +4717,7 @@
   "Preco_unitario": 2.06
  },
  {
-  "Codigo_Produto": 701250111,
+  "Codigo_Produto": "0701250120",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "NIPLE PVC",
@@ -4729,7 +4729,7 @@
   "Preco_unitario": 2.11
  },
  {
-  "Codigo_Produto": 701250120,
+  "Codigo_Produto": "0701250148",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "NIPLE PVC",
@@ -4741,7 +4741,7 @@
   "Preco_unitario": 71.6075
  },
  {
-  "Codigo_Produto": 701250148,
+  "Codigo_Produto": "0701250152",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO ROSCAVEL",
@@ -4753,7 +4753,7 @@
   "Preco_unitario": 19.19333333333333
  },
  {
-  "Codigo_Produto": 701250152,
+  "Codigo_Produto": "0701250156",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO ROSCAVEL",
@@ -4765,7 +4765,7 @@
   "Preco_unitario": 99.04875
  },
  {
-  "Codigo_Produto": 701250156,
+  "Codigo_Produto": "0701250163",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TUBO ROSCAVEL",
@@ -4777,7 +4777,7 @@
   "Preco_unitario": 48.8675
  },
  {
-  "Codigo_Produto": 701250163,
+  "Codigo_Produto": "0701250166",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO PVC",
@@ -4789,7 +4789,7 @@
   "Preco_unitario": 1.06
  },
  {
-  "Codigo_Produto": 701250166,
+  "Codigo_Produto": "0701250168",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO PVC",
@@ -4801,7 +4801,7 @@
   "Preco_unitario": 13.75
  },
  {
-  "Codigo_Produto": 701250168,
+  "Codigo_Produto": "0701250171",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO PVC",
@@ -4813,7 +4813,7 @@
   "Preco_unitario": 4.383823529411765
  },
  {
-  "Codigo_Produto": 701250171,
+  "Codigo_Produto": "0701250172",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE PVC",
@@ -4825,7 +4825,7 @@
   "Preco_unitario": 1.8630434782608696
  },
  {
-  "Codigo_Produto": 701250172,
+  "Codigo_Produto": "0701250175",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO PVC",
@@ -4837,7 +4837,7 @@
   "Preco_unitario": 153.36
  },
  {
-  "Codigo_Produto": 701250175,
+  "Codigo_Produto": "0701250192",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO PVC",
@@ -4849,7 +4849,7 @@
   "Preco_unitario": 321.84
  },
  {
-  "Codigo_Produto": 701250192,
+  "Codigo_Produto": "0701250194",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA PVC",
@@ -4861,7 +4861,7 @@
   "Preco_unitario": 7.3933333333333335
  },
  {
-  "Codigo_Produto": 701250194,
+  "Codigo_Produto": "0701250196",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA PVC",
@@ -4873,7 +4873,7 @@
   "Preco_unitario": 1.6133333333333333
  },
  {
-  "Codigo_Produto": 701250196,
+  "Codigo_Produto": "0701250198",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA PVC",
@@ -4885,7 +4885,7 @@
   "Preco_unitario": 1.6146875
  },
  {
-  "Codigo_Produto": 701250198,
+  "Codigo_Produto": "0701250204",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° PVC",
@@ -4897,7 +4897,7 @@
   "Preco_unitario": 2.2524242424242424
  },
  {
-  "Codigo_Produto": 701250204,
+  "Codigo_Produto": "0701250210",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -4909,7 +4909,7 @@
   "Preco_unitario": 11.170740740740742
  },
  {
-  "Codigo_Produto": 701250210,
+  "Codigo_Produto": "0701250214",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "BUCHA REDUCAO",
@@ -4921,7 +4921,7 @@
   "Preco_unitario": 0.185
  },
  {
-  "Codigo_Produto": 701250214,
+  "Codigo_Produto": "0701250215",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JOELHO 90° PVC",
@@ -4933,7 +4933,7 @@
   "Preco_unitario": 8.311481481481481
  },
  {
-  "Codigo_Produto": 701250215,
+  "Codigo_Produto": "0701250219",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JOELHO 90° PVC",
@@ -4945,7 +4945,7 @@
   "Preco_unitario": 1.85
  },
  {
-  "Codigo_Produto": 701250219,
+  "Codigo_Produto": "0701250226",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "JOELHO 90° PVC",
@@ -4957,7 +4957,7 @@
   "Preco_unitario": 0.9032467532467532
  },
  {
-  "Codigo_Produto": 701250226,
+  "Codigo_Produto": "0701250230",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "BUCHA REDUCAO",
@@ -4969,7 +4969,7 @@
   "Preco_unitario": 5.6259999999999994
  },
  {
-  "Codigo_Produto": 701250230,
+  "Codigo_Produto": "0701250278",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CAP PVC",
@@ -4981,7 +4981,7 @@
   "Preco_unitario": 0.21671875
  },
  {
-  "Codigo_Produto": 701250278,
+  "Codigo_Produto": "0701250407",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -4993,7 +4993,7 @@
   "Preco_unitario": 9.97
  },
  {
-  "Codigo_Produto": 701250407,
+  "Codigo_Produto": "0701250416",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "NIPLE PVC",
@@ -5005,7 +5005,7 @@
   "Preco_unitario": 6.632
  },
  {
-  "Codigo_Produto": 701250416,
+  "Codigo_Produto": "0701250449",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CAP PVC",
@@ -5017,7 +5017,7 @@
   "Preco_unitario": 0.32727272727272727
  },
  {
-  "Codigo_Produto": 701250449,
+  "Codigo_Produto": "0701250462",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "ADAPTADOR PVC",
@@ -5029,7 +5029,7 @@
   "Preco_unitario": 0.2523529411764706
  },
  {
-  "Codigo_Produto": 701250462,
+  "Codigo_Produto": "0701250464",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90° LONGO",
@@ -5041,7 +5041,7 @@
   "Preco_unitario": 12.444248704663211
  },
  {
-  "Codigo_Produto": 701250464,
+  "Codigo_Produto": "0701250465",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -5053,7 +5053,7 @@
   "Preco_unitario": 5.196
  },
  {
-  "Codigo_Produto": 701250465,
+  "Codigo_Produto": "0701250467",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -5065,7 +5065,7 @@
   "Preco_unitario": 11.840000000000002
  },
  {
-  "Codigo_Produto": 701250467,
+  "Codigo_Produto": "0701250524",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -5077,7 +5077,7 @@
   "Preco_unitario": 7.522
  },
  {
-  "Codigo_Produto": 701250524,
+  "Codigo_Produto": "0701250578",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -5089,7 +5089,7 @@
   "Preco_unitario": 3.0052631578947366
  },
  {
-  "Codigo_Produto": 701250578,
+  "Codigo_Produto": "0701250593",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45° LONGO",
@@ -5101,7 +5101,7 @@
   "Preco_unitario": 10.149519230769231
  },
  {
-  "Codigo_Produto": 701250593,
+  "Codigo_Produto": "0701250612",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE PVC",
@@ -5113,7 +5113,7 @@
   "Preco_unitario": 7.016282051282051
  },
  {
-  "Codigo_Produto": 701250612,
+  "Codigo_Produto": "0701250906",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA CORRER",
@@ -5125,7 +5125,7 @@
   "Preco_unitario": 13.919333333333334
  },
  {
-  "Codigo_Produto": 701250906,
+  "Codigo_Produto": "0701250907",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -5137,7 +5137,7 @@
   "Preco_unitario": 31.9
  },
  {
-  "Codigo_Produto": 701250907,
+  "Codigo_Produto": "0701450034",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -5149,7 +5149,7 @@
   "Preco_unitario": 59
  },
  {
-  "Codigo_Produto": 701450034,
+  "Codigo_Produto": "0701450071",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA GAVETA",
@@ -5161,7 +5161,7 @@
   "Preco_unitario": 5432.58
  },
  {
-  "Codigo_Produto": 701450071,
+  "Codigo_Produto": "0701450271",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA GAVETA",
@@ -5173,7 +5173,7 @@
   "Preco_unitario": 1918.87875
  },
  {
-  "Codigo_Produto": 701450271,
+  "Codigo_Produto": "0701500014",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA GAVETA",
@@ -5185,7 +5185,7 @@
   "Preco_unitario": 6265
  },
  {
-  "Codigo_Produto": 701500014,
+  "Codigo_Produto": "0701550005",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA REDUTORA",
@@ -5197,7 +5197,7 @@
   "Preco_unitario": 11725.28
  },
  {
-  "Codigo_Produto": 701550005,
+  "Codigo_Produto": "0701650010",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA GUILHOTINA",
@@ -5209,7 +5209,7 @@
   "Preco_unitario": 3463.98
  },
  {
-  "Codigo_Produto": 701650010,
+  "Codigo_Produto": "0701650017",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA RETENCAO",
@@ -5221,7 +5221,7 @@
   "Preco_unitario": 1133.23
  },
  {
-  "Codigo_Produto": 701650017,
+  "Codigo_Produto": "0701650030",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA RETENCAO",
@@ -5233,7 +5233,7 @@
   "Preco_unitario": 1319.42
  },
  {
-  "Codigo_Produto": 701650030,
+  "Codigo_Produto": "0701650078",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA RETENCAO",
@@ -5245,7 +5245,7 @@
   "Preco_unitario": 874
  },
  {
-  "Codigo_Produto": 701650078,
+  "Codigo_Produto": "0701650114",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA RETENCAO",
@@ -5257,7 +5257,7 @@
   "Preco_unitario": 850
  },
  {
-  "Codigo_Produto": 701650114,
+  "Codigo_Produto": "0701800037",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA RETENCAO",
@@ -5269,7 +5269,7 @@
   "Preco_unitario": 430
  },
  {
-  "Codigo_Produto": 701800037,
+  "Codigo_Produto": "0701800090",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA VENTOSA",
@@ -5281,7 +5281,7 @@
   "Preco_unitario": 1941
  },
  {
-  "Codigo_Produto": 701800090,
+  "Codigo_Produto": "0701800124",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA VENTOSA",
@@ -5293,7 +5293,7 @@
   "Preco_unitario": 511
  },
  {
-  "Codigo_Produto": 701800124,
+  "Codigo_Produto": "0701800129",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA VENTOSA",
@@ -5305,7 +5305,7 @@
   "Preco_unitario": 2947.64
  },
  {
-  "Codigo_Produto": 701800129,
+  "Codigo_Produto": "0701900055",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA VENTOSA",
@@ -5317,7 +5317,7 @@
   "Preco_unitario": 7700
  },
  {
-  "Codigo_Produto": 701900055,
+  "Codigo_Produto": "0701900060",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA BORBOLETA",
@@ -5329,7 +5329,7 @@
   "Preco_unitario": 720
  },
  {
-  "Codigo_Produto": 701900060,
+  "Codigo_Produto": "0701900063",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA BORBOLETA",
@@ -5341,7 +5341,7 @@
   "Preco_unitario": 3627
  },
  {
-  "Codigo_Produto": 701900063,
+  "Codigo_Produto": "0701900064",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA BORBOLETA",
@@ -5353,7 +5353,7 @@
   "Preco_unitario": 2842
  },
  {
-  "Codigo_Produto": 701900064,
+  "Codigo_Produto": "0701900123",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA BORBOLETA",
@@ -5365,7 +5365,7 @@
   "Preco_unitario": 159.23
  },
  {
-  "Codigo_Produto": 701900123,
+  "Codigo_Produto": "0701900156",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA BORBOLETA",
@@ -5377,7 +5377,7 @@
   "Preco_unitario": 1465
  },
  {
-  "Codigo_Produto": 701900156,
+  "Codigo_Produto": "0702000004",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA BORBOLETA",
@@ -5389,7 +5389,7 @@
   "Preco_unitario": 3421.99
  },
  {
-  "Codigo_Produto": 702000004,
+  "Codigo_Produto": "0702250009",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "VALVULA DERIVACAO",
@@ -5401,7 +5401,7 @@
   "Preco_unitario": 463.9725
  },
  {
-  "Codigo_Produto": 702250009,
+  "Codigo_Produto": "0702250012",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE FE",
@@ -5413,7 +5413,7 @@
   "Preco_unitario": 51.94095238095238
  },
  {
-  "Codigo_Produto": 702250012,
+  "Codigo_Produto": "0702250016",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "TEE REDUCAO",
@@ -5425,7 +5425,7 @@
   "Preco_unitario": 39.124
  },
  {
-  "Codigo_Produto": 702250016,
+  "Codigo_Produto": "0702250018",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "COTOVELO 90 FERRO",
@@ -5437,7 +5437,7 @@
   "Preco_unitario": 7.8
  },
  {
-  "Codigo_Produto": 702250018,
+  "Codigo_Produto": "0702250023",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "COTOVELO 45 FERRO",
@@ -5449,7 +5449,7 @@
   "Preco_unitario": 9.476
  },
  {
-  "Codigo_Produto": 702250023,
+  "Codigo_Produto": "0702250037",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "COTOVELO 90 FERRO",
@@ -5461,7 +5461,7 @@
   "Preco_unitario": 2.371706036745407
  },
  {
-  "Codigo_Produto": 702250037,
+  "Codigo_Produto": "0702250040",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA FE",
@@ -5473,7 +5473,7 @@
   "Preco_unitario": 4.6812499999999995
  },
  {
-  "Codigo_Produto": 702250040,
+  "Codigo_Produto": "0702250043",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA FE",
@@ -5485,7 +5485,7 @@
   "Preco_unitario": 9.85
  },
  {
-  "Codigo_Produto": 702250043,
+  "Codigo_Produto": "0702250046",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA FE",
@@ -5497,7 +5497,7 @@
   "Preco_unitario": 40.2875
  },
  {
-  "Codigo_Produto": 702250046,
+  "Codigo_Produto": "0702250047",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA FE",
@@ -5509,7 +5509,7 @@
   "Preco_unitario": 206.6325
  },
  {
-  "Codigo_Produto": 702250047,
+  "Codigo_Produto": "0702250061",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA REDUCAO",
@@ -5521,7 +5521,7 @@
   "Preco_unitario": 37.9
  },
  {
-  "Codigo_Produto": 702250061,
+  "Codigo_Produto": "0702250107",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "NIPLE FE",
@@ -5533,7 +5533,7 @@
   "Preco_unitario": 196.12
  },
  {
-  "Codigo_Produto": 702250107,
+  "Codigo_Produto": "0702250132",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "BUCHA REDUCAO",
@@ -5545,7 +5545,7 @@
   "Preco_unitario": 15.11
  },
  {
-  "Codigo_Produto": 702250132,
+  "Codigo_Produto": "0702250133",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90 FE",
@@ -5557,7 +5557,7 @@
   "Preco_unitario": 179.08
  },
  {
-  "Codigo_Produto": 702250133,
+  "Codigo_Produto": "0702250139",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA FEM",
@@ -5569,7 +5569,7 @@
   "Preco_unitario": 65.00333333333333
  },
  {
-  "Codigo_Produto": 702250139,
+  "Codigo_Produto": "0702250157",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 90 FE",
@@ -5581,7 +5581,7 @@
   "Preco_unitario": 298
  },
  {
-  "Codigo_Produto": 702250157,
+  "Codigo_Produto": "0702250175",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO FE",
@@ -5593,7 +5593,7 @@
   "Preco_unitario": 10.76
  },
  {
-  "Codigo_Produto": 702250175,
+  "Codigo_Produto": "0702250180",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "UNIAO FE",
@@ -5605,7 +5605,7 @@
   "Preco_unitario": 191.43833333333336
  },
  {
-  "Codigo_Produto": 702250180,
+  "Codigo_Produto": "0702250199",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "LUVA REDUCAO",
@@ -5617,7 +5617,7 @@
   "Preco_unitario": 88.23
  },
  {
-  "Codigo_Produto": 702250199,
+  "Codigo_Produto": "0800350433",
   "Grupo": 70,
   "Categoria": "HIDRAULICOS",
   "Nome": "CURVA 45 FE",
@@ -5629,7 +5629,7 @@
   "Preco_unitario": 128.32
  },
  {
-  "Codigo_Produto": 800350433,
+  "Codigo_Produto": "0850650020",
   "Grupo": 80,
   "Categoria": "INFORMATICA",
   "Nome": "CILINDRO USO",
@@ -5641,7 +5641,7 @@
   "Preco_unitario": 94.16
  },
  {
-  "Codigo_Produto": 850650020,
+  "Codigo_Produto": "0850650023",
   "Grupo": 85,
   "Categoria": "INSTRUMENTACAO",
   "Nome": "CELULA CAPACITIVA",
@@ -5653,7 +5653,7 @@
   "Preco_unitario": 126.7
  },
  {
-  "Codigo_Produto": 850650023,
+  "Codigo_Produto": "0850650040",
   "Grupo": 85,
   "Categoria": "INSTRUMENTACAO",
   "Nome": "CELULA CAPACITIVA",
@@ -5665,7 +5665,7 @@
   "Preco_unitario": 159.736
  },
  {
-  "Codigo_Produto": 850650040,
+  "Codigo_Produto": "0850850203",
   "Grupo": 85,
   "Categoria": "INSTRUMENTACAO",
   "Nome": "CELULA CAPACITIVA",
@@ -5677,7 +5677,7 @@
   "Preco_unitario": 48.1
  },
  {
-  "Codigo_Produto": 850850203,
+  "Codigo_Produto": "0850850223",
   "Grupo": 85,
   "Categoria": "INSTRUMENTACAO",
   "Nome": "ARAME ANTI",
@@ -5689,7 +5689,7 @@
   "Preco_unitario": 2.19
  },
  {
-  "Codigo_Produto": 850850223,
+  "Codigo_Produto": "0850850441",
   "Grupo": 85,
   "Categoria": "INSTRUMENTACAO",
   "Nome": "HOSTIA HIDROMETRO",
@@ -5701,7 +5701,7 @@
   "Preco_unitario": 0.06956521739130435
  },
  {
-  "Codigo_Produto": 850850441,
+  "Codigo_Produto": "0850850524",
   "Grupo": 85,
   "Categoria": "INSTRUMENTACAO",
   "Nome": "MEDIDOR VAZAO",
@@ -5713,7 +5713,7 @@
   "Preco_unitario": 8389.045
  },
  {
-  "Codigo_Produto": 850850524,
+  "Codigo_Produto": "0851000015",
   "Grupo": 85,
   "Categoria": "INSTRUMENTACAO",
   "Nome": "MEDIDOR VAZAO",
@@ -5725,7 +5725,7 @@
   "Preco_unitario": 14140.4
  },
  {
-  "Codigo_Produto": 851000015,
+  "Codigo_Produto": "0851150023",
   "Grupo": 85,
   "Categoria": "INSTRUMENTACAO",
   "Nome": "ESCALA RINGELMANN",
@@ -5737,7 +5737,7 @@
   "Preco_unitario": 18.5
  },
  {
-  "Codigo_Produto": 851150023,
+  "Codigo_Produto": "0851150041",
   "Grupo": 85,
   "Categoria": "INSTRUMENTACAO",
   "Nome": "TRANSMISSOR PRESSAO",
@@ -5749,7 +5749,7 @@
   "Preco_unitario": 853.2
  },
  {
-  "Codigo_Produto": 851150041,
+  "Codigo_Produto": "0950050045",
   "Grupo": 85,
   "Categoria": "INSTRUMENTACAO",
   "Nome": "TRANSMISSOR PRESSAO",
@@ -5761,7 +5761,7 @@
   "Preco_unitario": 507.6
  },
  {
-  "Codigo_Produto": 950050045,
+  "Codigo_Produto": "0950050064",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "DISCO DESBASTE",
@@ -5773,7 +5773,7 @@
   "Preco_unitario": 12.367692307692307
  },
  {
-  "Codigo_Produto": 950050064,
+  "Codigo_Produto": "0950150035",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "DISCO CORTE",
@@ -5785,7 +5785,7 @@
   "Preco_unitario": 21
  },
  {
-  "Codigo_Produto": 950150035,
+  "Codigo_Produto": "0950150047",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ANEL VEDACAO",
@@ -5797,7 +5797,7 @@
   "Preco_unitario": 7.8933333333333335
  },
  {
-  "Codigo_Produto": 950150047,
+  "Codigo_Produto": "0950150054",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ANEL VEDACAO",
@@ -5809,7 +5809,7 @@
   "Preco_unitario": 198
  },
  {
-  "Codigo_Produto": 950150054,
+  "Codigo_Produto": "0950150175",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ANEL VEDACAO",
@@ -5821,7 +5821,7 @@
   "Preco_unitario": 230
  },
  {
-  "Codigo_Produto": 950150175,
+  "Codigo_Produto": "0950150176",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ANEL VEDACAO",
@@ -5833,7 +5833,7 @@
   "Preco_unitario": 28
  },
  {
-  "Codigo_Produto": 950150176,
+  "Codigo_Produto": "0950200068",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ANEL VEDACAO",
@@ -5845,7 +5845,7 @@
   "Preco_unitario": 23.536145833333332
  },
  {
-  "Codigo_Produto": 950200068,
+  "Codigo_Produto": "0950300002",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "GRAXEIRA RETA",
@@ -5857,7 +5857,7 @@
   "Preco_unitario": 3.5700000000000003
  },
  {
-  "Codigo_Produto": 950300002,
+  "Codigo_Produto": "0950300017",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ARRUELA PRESSAO",
@@ -5869,7 +5869,7 @@
   "Preco_unitario": 0.2
  },
  {
-  "Codigo_Produto": 950300017,
+  "Codigo_Produto": "0950300216",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ARRUELA LISA",
@@ -5881,7 +5881,7 @@
   "Preco_unitario": 0.65
  },
  {
-  "Codigo_Produto": 950300216,
+  "Codigo_Produto": "0950400035",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ARRUELA PRESSAO",
@@ -5893,7 +5893,7 @@
   "Preco_unitario": 0.8
  },
  {
-  "Codigo_Produto": 950400035,
+  "Codigo_Produto": "0950400089",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "BROCA HELICOIDAL",
@@ -5905,7 +5905,7 @@
   "Preco_unitario": 28.46090909090909
  },
  {
-  "Codigo_Produto": 950400089,
+  "Codigo_Produto": "0950450001",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "BROCA HELICOIDAL",
@@ -5917,7 +5917,7 @@
   "Preco_unitario": 86.6
  },
  {
-  "Codigo_Produto": 950450001,
+  "Codigo_Produto": "0950450006",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "BUCHA FIXACAO",
@@ -5929,7 +5929,7 @@
   "Preco_unitario": 0.42
  },
  {
-  "Codigo_Produto": 950450006,
+  "Codigo_Produto": "0950700009",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "BUCHA FIXACAO",
@@ -5941,7 +5941,7 @@
   "Preco_unitario": 0.155875
  },
  {
-  "Codigo_Produto": 950700009,
+  "Codigo_Produto": "0950700015",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -5953,7 +5953,7 @@
   "Preco_unitario": 20.79
  },
  {
-  "Codigo_Produto": 950700015,
+  "Codigo_Produto": "0950700016",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -5965,7 +5965,7 @@
   "Preco_unitario": 32.5
  },
  {
-  "Codigo_Produto": 950700016,
+  "Codigo_Produto": "0950700018",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -5977,7 +5977,7 @@
   "Preco_unitario": 25.2
  },
  {
-  "Codigo_Produto": 950700018,
+  "Codigo_Produto": "0950700019",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -5989,7 +5989,7 @@
   "Preco_unitario": 14.015
  },
  {
-  "Codigo_Produto": 950700019,
+  "Codigo_Produto": "0950700022",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6001,7 +6001,7 @@
   "Preco_unitario": 41.9
  },
  {
-  "Codigo_Produto": 950700022,
+  "Codigo_Produto": "0950700023",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6013,7 +6013,7 @@
   "Preco_unitario": 28.44
  },
  {
-  "Codigo_Produto": 950700023,
+  "Codigo_Produto": "0950700026",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6025,7 +6025,7 @@
   "Preco_unitario": 18.966
  },
  {
-  "Codigo_Produto": 950700026,
+  "Codigo_Produto": "0950700027",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6037,7 +6037,7 @@
   "Preco_unitario": 8.93
  },
  {
-  "Codigo_Produto": 950700027,
+  "Codigo_Produto": "0950700028",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6049,7 +6049,7 @@
   "Preco_unitario": 29.7
  },
  {
-  "Codigo_Produto": 950700028,
+  "Codigo_Produto": "0950700029",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6061,7 +6061,7 @@
   "Preco_unitario": 16.771666666666665
  },
  {
-  "Codigo_Produto": 950700029,
+  "Codigo_Produto": "0950700031",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6073,7 +6073,7 @@
   "Preco_unitario": 13.694444444444445
  },
  {
-  "Codigo_Produto": 950700031,
+  "Codigo_Produto": "0950700035",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6085,7 +6085,7 @@
   "Preco_unitario": 40.46
  },
  {
-  "Codigo_Produto": 950700035,
+  "Codigo_Produto": "0950700037",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6097,7 +6097,7 @@
   "Preco_unitario": 10.7
  },
  {
-  "Codigo_Produto": 950700037,
+  "Codigo_Produto": "0950700038",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6109,7 +6109,7 @@
   "Preco_unitario": 29.648000000000003
  },
  {
-  "Codigo_Produto": 950700038,
+  "Codigo_Produto": "0950700040",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6121,7 +6121,7 @@
   "Preco_unitario": 33.33428571428571
  },
  {
-  "Codigo_Produto": 950700040,
+  "Codigo_Produto": "0950700044",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6133,7 +6133,7 @@
   "Preco_unitario": 46.54583333333333
  },
  {
-  "Codigo_Produto": 950700044,
+  "Codigo_Produto": "0950700046",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6145,7 +6145,7 @@
   "Preco_unitario": 9.3
  },
  {
-  "Codigo_Produto": 950700046,
+  "Codigo_Produto": "0950700051",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6157,7 +6157,7 @@
   "Preco_unitario": 25.92
  },
  {
-  "Codigo_Produto": 950700051,
+  "Codigo_Produto": "0950700081",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6169,7 +6169,7 @@
   "Preco_unitario": 80
  },
  {
-  "Codigo_Produto": 950700081,
+  "Codigo_Produto": "0950700086",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA SINCRONIZADA",
@@ -6181,7 +6181,7 @@
   "Preco_unitario": 82.9
  },
  {
-  "Codigo_Produto": 950700086,
+  "Codigo_Produto": "0950700089",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6193,7 +6193,7 @@
   "Preco_unitario": 22.75
  },
  {
-  "Codigo_Produto": 950700089,
+  "Codigo_Produto": "0950700090",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6205,7 +6205,7 @@
   "Preco_unitario": 43.33
  },
  {
-  "Codigo_Produto": 950700090,
+  "Codigo_Produto": "0950700095",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6217,7 +6217,7 @@
   "Preco_unitario": 55.75
  },
  {
-  "Codigo_Produto": 950700095,
+  "Codigo_Produto": "0950700097",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6229,7 +6229,7 @@
   "Preco_unitario": 120.8
  },
  {
-  "Codigo_Produto": 950700097,
+  "Codigo_Produto": "0950700108",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6241,7 +6241,7 @@
   "Preco_unitario": 32.887142857142855
  },
  {
-  "Codigo_Produto": 950700108,
+  "Codigo_Produto": "0950700113",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6253,7 +6253,7 @@
   "Preco_unitario": 99.08999999999999
  },
  {
-  "Codigo_Produto": 950700113,
+  "Codigo_Produto": "0950700135",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6265,7 +6265,7 @@
   "Preco_unitario": 70.31
  },
  {
-  "Codigo_Produto": 950700135,
+  "Codigo_Produto": "0950700161",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6277,7 +6277,7 @@
   "Preco_unitario": 141.20000000000002
  },
  {
-  "Codigo_Produto": 950700161,
+  "Codigo_Produto": "0950700173",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA XPB",
@@ -6289,7 +6289,7 @@
   "Preco_unitario": 105.4
  },
  {
-  "Codigo_Produto": 950700173,
+  "Codigo_Produto": "0950700176",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6301,7 +6301,7 @@
   "Preco_unitario": 34.85
  },
  {
-  "Codigo_Produto": 950700176,
+  "Codigo_Produto": "0950700178",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6313,7 +6313,7 @@
   "Preco_unitario": 77.65
  },
  {
-  "Codigo_Produto": 950700178,
+  "Codigo_Produto": "0950700181",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA 3V",
@@ -6325,7 +6325,7 @@
   "Preco_unitario": 29.6
  },
  {
-  "Codigo_Produto": 950700181,
+  "Codigo_Produto": "0950850356",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORREIA V",
@@ -6337,7 +6337,7 @@
   "Preco_unitario": 77.75
  },
  {
-  "Codigo_Produto": 950850356,
+  "Codigo_Produto": "0950850666",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "CORTADOR TUBO",
@@ -6349,7 +6349,7 @@
   "Preco_unitario": 784.1
  },
  {
-  "Codigo_Produto": 950850666,
+  "Codigo_Produto": "0951100009",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PAQUIMETRO MECANICO",
@@ -6361,7 +6361,7 @@
   "Preco_unitario": 16.46
  },
  {
-  "Codigo_Produto": 951100009,
+  "Codigo_Produto": "0951300248",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "GAXETA QUADRADO",
@@ -6373,7 +6373,7 @@
   "Preco_unitario": 420
  },
  {
-  "Codigo_Produto": 951300248,
+  "Codigo_Produto": "0951300399",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ABRACADEIRA ROSCA",
@@ -6385,7 +6385,7 @@
   "Preco_unitario": 2.5
  },
  {
-  "Codigo_Produto": 951300399,
+  "Codigo_Produto": "0951300438",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ABRACADEIRA ROSCA",
@@ -6397,7 +6397,7 @@
   "Preco_unitario": 3
  },
  {
-  "Codigo_Produto": 951300438,
+  "Codigo_Produto": "0951450005",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ABRACADEIRA REPARO",
@@ -6409,7 +6409,7 @@
   "Preco_unitario": 353.3342857142857
  },
  {
-  "Codigo_Produto": 951450005,
+  "Codigo_Produto": "0951450007",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6421,7 +6421,7 @@
   "Preco_unitario": 2.9000000000000004
  },
  {
-  "Codigo_Produto": 951450007,
+  "Codigo_Produto": "0951450010",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6433,7 +6433,7 @@
   "Preco_unitario": 0.5395121951219513
  },
  {
-  "Codigo_Produto": 951450010,
+  "Codigo_Produto": "0951450013",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6445,7 +6445,7 @@
   "Preco_unitario": 0.3370689655172414
  },
  {
-  "Codigo_Produto": 951450013,
+  "Codigo_Produto": "0951450014",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6457,7 +6457,7 @@
   "Preco_unitario": 0.5060526315789474
  },
  {
-  "Codigo_Produto": 951450014,
+  "Codigo_Produto": "0951450026",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6469,7 +6469,7 @@
   "Preco_unitario": 1.4288888888888889
  },
  {
-  "Codigo_Produto": 951450026,
+  "Codigo_Produto": "0951450029",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6481,7 +6481,7 @@
   "Preco_unitario": 1.24895
  },
  {
-  "Codigo_Produto": 951450029,
+  "Codigo_Produto": "0951450030",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6493,7 +6493,7 @@
   "Preco_unitario": 1.9
  },
  {
-  "Codigo_Produto": 951450030,
+  "Codigo_Produto": "0951450036",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6505,7 +6505,7 @@
   "Preco_unitario": 2.2673584905660378
  },
  {
-  "Codigo_Produto": 951450036,
+  "Codigo_Produto": "0951450037",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6517,7 +6517,7 @@
   "Preco_unitario": 0.32439999999999997
  },
  {
-  "Codigo_Produto": 951450037,
+  "Codigo_Produto": "0951450039",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6529,7 +6529,7 @@
   "Preco_unitario": 2.0464383561643835
  },
  {
-  "Codigo_Produto": 951450039,
+  "Codigo_Produto": "0951450040",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6541,7 +6541,7 @@
   "Preco_unitario": 1.7
  },
  {
-  "Codigo_Produto": 951450040,
+  "Codigo_Produto": "0951450048",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6553,7 +6553,7 @@
   "Preco_unitario": 0.750625
  },
  {
-  "Codigo_Produto": 951450048,
+  "Codigo_Produto": "0951450053",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6565,7 +6565,7 @@
   "Preco_unitario": 1.1
  },
  {
-  "Codigo_Produto": 951450053,
+  "Codigo_Produto": "0951450054",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6577,7 +6577,7 @@
   "Preco_unitario": 0.425
  },
  {
-  "Codigo_Produto": 951450054,
+  "Codigo_Produto": "0951450059",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6589,7 +6589,7 @@
   "Preco_unitario": 5.15
  },
  {
-  "Codigo_Produto": 951450059,
+  "Codigo_Produto": "0951450063",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6601,7 +6601,7 @@
   "Preco_unitario": 0.6599999999999999
  },
  {
-  "Codigo_Produto": 951450063,
+  "Codigo_Produto": "0951450065",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6613,7 +6613,7 @@
   "Preco_unitario": 2.91
  },
  {
-  "Codigo_Produto": 951450065,
+  "Codigo_Produto": "0951450104",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO SEXTAVADA",
@@ -6625,7 +6625,7 @@
   "Preco_unitario": 0.93
  },
  {
-  "Codigo_Produto": 951450104,
+  "Codigo_Produto": "0951550085",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PARAFUSO CHATA",
@@ -6637,7 +6637,7 @@
   "Preco_unitario": 0.40375
  },
  {
-  "Codigo_Produto": 951550085,
+  "Codigo_Produto": "0951600180",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "PORCA SEXTAVADA",
@@ -6649,7 +6649,7 @@
   "Preco_unitario": 2.9325
  },
  {
-  "Codigo_Produto": 951600180,
+  "Codigo_Produto": "0951700011",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "RETENTOR DIN",
@@ -6661,7 +6661,7 @@
   "Preco_unitario": 24.9
  },
  {
-  "Codigo_Produto": 951700011,
+  "Codigo_Produto": "0951700021",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 22215 S",
@@ -6673,7 +6673,7 @@
   "Preco_unitario": 325.5
  },
  {
-  "Codigo_Produto": 951700021,
+  "Codigo_Produto": "0951700023",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 3305 S",
@@ -6685,7 +6685,7 @@
   "Preco_unitario": 136.7742857142857
  },
  {
-  "Codigo_Produto": 951700023,
+  "Codigo_Produto": "0951700025",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 3308 S",
@@ -6697,7 +6697,7 @@
   "Preco_unitario": 245.01363636363638
  },
  {
-  "Codigo_Produto": 951700025,
+  "Codigo_Produto": "0951700028",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 3308 2Z",
@@ -6709,7 +6709,7 @@
   "Preco_unitario": 293.87
  },
  {
-  "Codigo_Produto": 951700028,
+  "Codigo_Produto": "0951700043",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO ESFERA",
@@ -6721,7 +6721,7 @@
   "Preco_unitario": 113.8075
  },
  {
-  "Codigo_Produto": 951700043,
+  "Codigo_Produto": "0951700045",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6005 2Z",
@@ -6733,7 +6733,7 @@
   "Preco_unitario": 10.140555555555556
  },
  {
-  "Codigo_Produto": 951700045,
+  "Codigo_Produto": "0951700053",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 51100 S",
@@ -6745,7 +6745,7 @@
   "Preco_unitario": 15.122
  },
  {
-  "Codigo_Produto": 951700053,
+  "Codigo_Produto": "0951700055",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6004 2Z",
@@ -6757,7 +6757,7 @@
   "Preco_unitario": 15.34
  },
  {
-  "Codigo_Produto": 951700055,
+  "Codigo_Produto": "0951700056",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6026 S",
@@ -6769,7 +6769,7 @@
   "Preco_unitario": 1185.47
  },
  {
-  "Codigo_Produto": 951700056,
+  "Codigo_Produto": "0951700058",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 3201 2Z",
@@ -6781,7 +6781,7 @@
   "Preco_unitario": 100.1964
  },
  {
-  "Codigo_Produto": 951700058,
+  "Codigo_Produto": "0951700064",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6202 2Z",
@@ -6793,7 +6793,7 @@
   "Preco_unitario": 11.544285714285715
  },
  {
-  "Codigo_Produto": 951700064,
+  "Codigo_Produto": "0951700067",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6205 S",
@@ -6805,7 +6805,7 @@
   "Preco_unitario": 11.998333333333333
  },
  {
-  "Codigo_Produto": 951700067,
+  "Codigo_Produto": "0951700073",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6205 2Z",
@@ -6817,7 +6817,7 @@
   "Preco_unitario": 15.26
  },
  {
-  "Codigo_Produto": 951700073,
+  "Codigo_Produto": "0951700074",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6208 2Z",
@@ -6829,7 +6829,7 @@
   "Preco_unitario": 17.44666666666667
  },
  {
-  "Codigo_Produto": 951700074,
+  "Codigo_Produto": "0951700077",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6209 1Z",
@@ -6841,7 +6841,7 @@
   "Preco_unitario": 30.5975
  },
  {
-  "Codigo_Produto": 951700077,
+  "Codigo_Produto": "0951700104",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6207 2Z",
@@ -6853,7 +6853,7 @@
   "Preco_unitario": 14.756923076923076
  },
  {
-  "Codigo_Produto": 951700104,
+  "Codigo_Produto": "0951700105",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6305 2Z",
@@ -6865,7 +6865,7 @@
   "Preco_unitario": 16.13
  },
  {
-  "Codigo_Produto": 951700105,
+  "Codigo_Produto": "0951700106",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6305 2Z",
@@ -6877,7 +6877,7 @@
   "Preco_unitario": 29.18
  },
  {
-  "Codigo_Produto": 951700106,
+  "Codigo_Produto": "0951700109",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6306 S",
@@ -6889,7 +6889,7 @@
   "Preco_unitario": 26.2
  },
  {
-  "Codigo_Produto": 951700109,
+  "Codigo_Produto": "0951700117",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6306 2Z",
@@ -6901,7 +6901,7 @@
   "Preco_unitario": 28.74
  },
  {
-  "Codigo_Produto": 951700117,
+  "Codigo_Produto": "0951700122",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6307 2Z",
@@ -6913,7 +6913,7 @@
   "Preco_unitario": 28.52
  },
  {
-  "Codigo_Produto": 951700122,
+  "Codigo_Produto": "0951700125",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6310 1Z",
@@ -6925,7 +6925,7 @@
   "Preco_unitario": 60.1175
  },
  {
-  "Codigo_Produto": 951700125,
+  "Codigo_Produto": "0951700126",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6311 1Z",
@@ -6937,7 +6937,7 @@
   "Preco_unitario": 194.6
  },
  {
-  "Codigo_Produto": 951700126,
+  "Codigo_Produto": "0951700203",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6311 1Z",
@@ -6949,7 +6949,7 @@
   "Preco_unitario": 99.3475
  },
  {
-  "Codigo_Produto": 951700203,
+  "Codigo_Produto": "0951700269",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6308 2Z",
@@ -6961,7 +6961,7 @@
   "Preco_unitario": 13.3875
  },
  {
-  "Codigo_Produto": 951700269,
+  "Codigo_Produto": "0951700274",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 3306 C",
@@ -6973,7 +6973,7 @@
   "Preco_unitario": 156.61533333333333
  },
  {
-  "Codigo_Produto": 951700274,
+  "Codigo_Produto": "0951700279",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 3311 AC",
@@ -6985,7 +6985,7 @@
   "Preco_unitario": 396.78
  },
  {
-  "Codigo_Produto": 951700279,
+  "Codigo_Produto": "0951700291",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6201 2Z",
@@ -6997,7 +6997,7 @@
   "Preco_unitario": 11.00810810810811
  },
  {
-  "Codigo_Produto": 951700291,
+  "Codigo_Produto": "0951700307",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 22215EAE",
@@ -7009,7 +7009,7 @@
   "Preco_unitario": 432.10833333333335
  },
  {
-  "Codigo_Produto": 951700307,
+  "Codigo_Produto": "0951700325",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 32008TRS",
@@ -7021,7 +7021,7 @@
   "Preco_unitario": 16.351499999999998
  },
  {
-  "Codigo_Produto": 951700325,
+  "Codigo_Produto": "0951700352",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 608 2Z",
@@ -7033,7 +7033,7 @@
   "Preco_unitario": 7.4
  },
  {
-  "Codigo_Produto": 951700352,
+  "Codigo_Produto": "0951700371",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6007 2RZ",
@@ -7045,7 +7045,7 @@
   "Preco_unitario": 17.095
  },
  {
-  "Codigo_Produto": 951700371,
+  "Codigo_Produto": "0951700372",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 21309CC",
@@ -7057,7 +7057,7 @@
   "Preco_unitario": 756.4433333333333
  },
  {
-  "Codigo_Produto": 951700372,
+  "Codigo_Produto": "0951700373",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO NJ",
@@ -7069,7 +7069,7 @@
   "Preco_unitario": 217.23
  },
  {
-  "Codigo_Produto": 951700373,
+  "Codigo_Produto": "0951700374",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO NJ",
@@ -7081,7 +7081,7 @@
   "Preco_unitario": 305.89125
  },
  {
-  "Codigo_Produto": 951700374,
+  "Codigo_Produto": "0951700375",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO NJ",
@@ -7093,7 +7093,7 @@
   "Preco_unitario": 240.13333333333333
  },
  {
-  "Codigo_Produto": 951700375,
+  "Codigo_Produto": "0951700376",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO NJ",
@@ -7105,7 +7105,7 @@
   "Preco_unitario": 165.07166666666666
  },
  {
-  "Codigo_Produto": 951700376,
+  "Codigo_Produto": "0951700381",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 30304 S",
@@ -7117,7 +7117,7 @@
   "Preco_unitario": 103.52999999999999
  },
  {
-  "Codigo_Produto": 951700381,
+  "Codigo_Produto": "0951700382",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6308 2RS",
@@ -7129,7 +7129,7 @@
   "Preco_unitario": 64.6
  },
  {
-  "Codigo_Produto": 951700382,
+  "Codigo_Produto": "0951700416",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 6207 2RS",
@@ -7141,7 +7141,7 @@
   "Preco_unitario": 21.015
  },
  {
-  "Codigo_Produto": 951700416,
+  "Codigo_Produto": "0951700427",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 61912 2RS",
@@ -7153,7 +7153,7 @@
   "Preco_unitario": 424.01000000000005
  },
  {
-  "Codigo_Produto": 951700427,
+  "Codigo_Produto": "0951700428",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO HR",
@@ -7165,7 +7165,7 @@
   "Preco_unitario": 69.56
  },
  {
-  "Codigo_Produto": 951700428,
+  "Codigo_Produto": "0951700429",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 22207 CC",
@@ -7177,7 +7177,7 @@
   "Preco_unitario": 346.94
  },
  {
-  "Codigo_Produto": 951700429,
+  "Codigo_Produto": "0951700442",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO 211 EM",
@@ -7189,7 +7189,7 @@
   "Preco_unitario": 405.96
  },
  {
-  "Codigo_Produto": 951700442,
+  "Codigo_Produto": "0951800057",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "ROLAMENTO BC",
@@ -7201,7 +7201,7 @@
   "Preco_unitario": 231.87
  },
  {
-  "Codigo_Produto": 951800057,
+  "Codigo_Produto": "1000600031",
   "Grupo": 95,
   "Categoria": "MECANICA",
   "Nome": "SELO MECANICO",
@@ -7213,7 +7213,7 @@
   "Preco_unitario": 38
  },
  {
-  "Codigo_Produto": 1000600031,
+  "Codigo_Produto": "1001150109",
   "Grupo": 100,
   "Categoria": "BOMBAS E CONEXÕES",
   "Nome": "KIT REPARO",
@@ -7225,7 +7225,7 @@
   "Preco_unitario": 100
  },
  {
-  "Codigo_Produto": 1001150109,
+  "Codigo_Produto": "1001950045",
   "Grupo": 100,
   "Categoria": "BOMBAS E CONEXÕES",
   "Nome": "ROLAMENTO RC",
@@ -7237,7 +7237,7 @@
   "Preco_unitario": 88.53
  },
  {
-  "Codigo_Produto": 1001950045,
+  "Codigo_Produto": "1001950925",
   "Grupo": 100,
   "Categoria": "BOMBAS E CONEXÕES",
   "Nome": "SUPORTE PEDESTAL",
@@ -7249,7 +7249,7 @@
   "Preco_unitario": 209.15
  },
  {
-  "Codigo_Produto": 1001950925,
+  "Codigo_Produto": "1002100336",
   "Grupo": 100,
   "Categoria": "BOMBAS E CONEXÕES",
   "Nome": "PEDESTAL FERRO",
@@ -7261,7 +7261,7 @@
   "Preco_unitario": 6166.88
  },
  {
-  "Codigo_Produto": 1002100336,
+  "Codigo_Produto": "1050050015",
   "Grupo": 100,
   "Categoria": "BOMBAS E CONEXÕES",
   "Nome": "ESTACAO ELEVATORIA",
@@ -7273,7 +7273,7 @@
   "Preco_unitario": 37952.76
  },
  {
-  "Codigo_Produto": 1050050015,
+  "Codigo_Produto": "1050050235",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "FITA ADESIVA",
@@ -7285,7 +7285,7 @@
   "Preco_unitario": 14.2
  },
  {
-  "Codigo_Produto": 1050050235,
+  "Codigo_Produto": "1050100083",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "FAIXA REFLETIVA",
@@ -7297,7 +7297,7 @@
   "Preco_unitario": 37.4
  },
  {
-  "Codigo_Produto": 1050100083,
+  "Codigo_Produto": "1050100086",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "LUVA MOTOCICLISTA",
@@ -7309,7 +7309,7 @@
   "Preco_unitario": 89.9
  },
  {
-  "Codigo_Produto": 1050100086,
+  "Codigo_Produto": "1050100112",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "LUVA MOTOCICLISTA",
@@ -7321,7 +7321,7 @@
   "Preco_unitario": 98.95333333333333
  },
  {
-  "Codigo_Produto": 1050100112,
+  "Codigo_Produto": "1050100114",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "TENIS SEGURANCA",
@@ -7333,7 +7333,7 @@
   "Preco_unitario": 99.38333333333333
  },
  {
-  "Codigo_Produto": 1050100114,
+  "Codigo_Produto": "1050100188",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "TENIS SEGURANCA",
@@ -7345,7 +7345,7 @@
   "Preco_unitario": 85.22
  },
  {
-  "Codigo_Produto": 1050100188,
+  "Codigo_Produto": "1050100344",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "TENIS SEGURANCA",
@@ -7357,7 +7357,7 @@
   "Preco_unitario": 114.215
  },
  {
-  "Codigo_Produto": 1050100344,
+  "Codigo_Produto": "1050100388",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "COLETE SINALIZ",
@@ -7369,7 +7369,7 @@
   "Preco_unitario": 111.24000000000001
  },
  {
-  "Codigo_Produto": 1050100388,
+  "Codigo_Produto": "1050100447",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "FITA PEIA",
@@ -7381,7 +7381,7 @@
   "Preco_unitario": 81
  },
  {
-  "Codigo_Produto": 1050100447,
+  "Codigo_Produto": "1050100454",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "TENIS SEGURANCA",
@@ -7393,7 +7393,7 @@
   "Preco_unitario": 163.49333333333334
  },
  {
-  "Codigo_Produto": 1050100454,
+  "Codigo_Produto": "1050100456",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "TENIS SEGURANCA",
@@ -7405,7 +7405,7 @@
   "Preco_unitario": 176.52
  },
  {
-  "Codigo_Produto": 1050100456,
+  "Codigo_Produto": "1050100458",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "TENIS SEGURANCA",
@@ -7417,7 +7417,7 @@
   "Preco_unitario": 155
  },
  {
-  "Codigo_Produto": 1050100458,
+  "Codigo_Produto": "1050100459",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "TENIS SEGURANCA",
@@ -7429,7 +7429,7 @@
   "Preco_unitario": 173.225
  },
  {
-  "Codigo_Produto": 1050100459,
+  "Codigo_Produto": "1050150046",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "TENIS SEGURANCA",
@@ -7441,7 +7441,7 @@
   "Preco_unitario": 173.23
  },
  {
-  "Codigo_Produto": 1050150046,
+  "Codigo_Produto": "1050150059",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "MACACAO SEGURANCA",
@@ -7453,7 +7453,7 @@
   "Preco_unitario": 129
  },
  {
-  "Codigo_Produto": 1050150059,
+  "Codigo_Produto": "1150300012",
   "Grupo": 105,
   "Categoria": "SEGURANÇA",
   "Nome": "AVENTAL PROF",
